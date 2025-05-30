@@ -1,0 +1,92 @@
+[
+  {
+    "username": "admin",
+    "password_hash": "0cb8e6b0288c158878f313a51f99634479012c6c450a77485d2448a47ac53de6",
+    "salt": "c1124f1632850e1967f5440c1780799a",
+    "email": "admin@example.com",
+    "role": "admin",
+    "full_name": "System Administrator",
+    "created_at": "2025-04-12T14:33:34.967032",
+    "last_login": null
+  },
+  {
+    "username": "husna",
+    "password_hash": "f3bce19549843b6bfef70dd82f16d664dfb85dce76dde3affbb2ee18b4c70329",
+    "salt": "2c056995fa3b72d54919caf1587c38fc",
+    "email": "husna@gmail.com",
+    "role": "student",
+    "full_name": "husna pawar",
+    "created_at": "2025-04-12T14:35:32.304493",
+    "last_login": "2025-05-30T16:17:48.610987"
+  },
+  {
+    "username": "Husna01",
+    "password_hash": "f106bc6c7fe5f63113fc37627d8121d325b894420329576e6c0e173e4b7f8bb4",
+    "salt": "efccc604fc74c1f4bd715042453bdf93",
+    "email": "husna01@gmail.com",
+    "role": "student",
+    "full_name": "Husna Pawar",
+    "created_at": "2025-04-12T15:29:52.131516",
+    "last_login": "2025-04-12T15:30:08.312666"
+  },
+  {
+    "username": "rani",
+    "password_hash": "a51bfa022d65930af148ae59f0bc16e2eae3dbea53213431899b6e74d56bb815",
+    "salt": "e78876762af8a6098a8769e6ec45f748",
+    "email": "rani@gmail.com",
+    "role": "student",
+    "full_name": "Rani Pawar",
+    "created_at": "2025-04-15T14:58:41.502038",
+    "last_login": "2025-04-15T14:58:54.961012"
+  },
+  {
+    "username": "anup",
+    "password_hash": "e346e8ee31b99a9713ae27a8b501b18b92a3f528efd63f2480c6b2ef18a9463f",
+    "salt": "6e3f33f487fd494af9b22710f99c668d",
+    "email": "anup@gmail.com",
+    "role": "instructor",
+    "full_name": "Anup Bhange",
+    "created_at": "2025-04-15T15:02:51.975189",
+    "last_login": "2025-04-15T15:03:09.223991"
+  },
+  {
+    "username": "vishaka",
+    "password_hash": "00adcf4f9ec909e8b10889b589b371c7ef6616ed0b3984cbc27f28fe5f158d6c",
+    "salt": "f3b34dcebe8db2fca4ec09511bbbf16e",
+    "email": "vishaka",
+    "role": "student",
+    "full_name": "vishaka pawar",
+    "created_at": "2025-04-15T21:11:32.299497",
+    "last_login": "2025-04-15T21:25:06.699118"
+  },
+  {
+    "username": "Husna ",
+    "password_hash": "b3350982d51fc2a4d264855759969fe2a73187e8c22880277ad72908d8e15b6c",
+    "salt": "4dcfc2f137350b25a1cd850b0f15e330",
+    "email": "husnapawar358@gmail.com",
+    "role": "student",
+    "full_name": "Husna Pawar",
+    "created_at": "2025-05-28T12:09:50.061397",
+    "last_login": null
+  },
+  {
+    "username": "Anjali",
+    "password_hash": "0df0e5acadecd5721f355f8701c6e471ca00eaffa8da2a0bb4f70e4789009e14",
+    "salt": "1a2fc9c7168989d6431fa1d1ead1846e",
+    "email": "Anjalisinha@gmail.com",
+    "role": "student",
+    "full_name": "Anjali sinha",
+    "created_at": "2025-05-28T12:13:24.034270",
+    "last_login": "2025-05-28T12:13:59.796088"
+  },
+  {
+    "username": "husna ",
+    "password_hash": "9e0bdb950abb3c57840ed6567eb2c5c16f7696cd9a3a8411d08665b2c82edb59",
+    "salt": "fc52e138a6e591fd84adc15535aaba49",
+    "email": "husnapawar2003@gmail.com",
+    "role": "instructor",
+    "full_name": "Husna D. pawar",
+    "created_at": "2025-05-30T15:09:36.483282",
+    "last_login": null
+  }
+]

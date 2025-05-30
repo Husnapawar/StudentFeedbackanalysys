@@ -1,0 +1,1001 @@
+student_id,course_id,subject,feedback_text,rating,date,true_category,true_sentiment
+S14718,BIO195,Biology,The Assessment Methods in the Biology class was below standard.,3,2024-10-30,Assessment Methods,Negative
+S67997,CHE353,Chemistry,The instructor's Assessment Methods approach in Chemistry was outstanding.,5,2024-10-03,Assessment Methods,Positive
+S49561,PSY111,Psychology,The Assessment Methods in the Psychology class exceeded my expectations.,5,2024-12-14,Assessment Methods,Positive
+S44346,BIO180,Biology,"I think the Assessment Methods in Biology was average, nothing special.",3,2024-07-20,Assessment Methods,Neutral
+S92001,COM887,Computer Science,The Course Content in the Computer Science course was adequate.,3,2024-05-15,Course Content,Neutral
+S12080,PSY972,Psychology,I struggled with Psychology due to inadequate Facilities.,2,2024-05-14,Facilities,Negative
+S75607,PSY620,Psychology,The instructor's Support Services approach in Psychology was outstanding.,4,2024-09-02,Support Services,Positive
+S91344,MAT768,Mathematics,"Great Facilities in the Mathematics course, very helpful for my learning.",4,2024-05-10,Facilities,Positive
+S51588,ECO377,Economics,I found the Teaching Quality in Economics to be very well organized and useful.,4,2024-07-03,Teaching Quality,Positive
+S95951,LIT953,Literature,The instructor's Course Content approach in Literature was outstanding.,5,2024-06-24,Course Content,Positive
+S93439,PSY175,Psychology,I really enjoyed the Psychology course. The Course Content was excellent.,4,2024-09-24,Course Content,Positive
+S64539,CHE923,Chemistry,The instructor's Course Content approach in Chemistry was outstanding.,4,2024-06-15,Course Content,Positive
+S65362,MAT681,Mathematics,The Teaching Quality in Mathematics needs significant improvement.,3,2024-09-18,Teaching Quality,Negative
+S63731,ECO997,Economics,The Learning Resources in the Economics course was adequate.,4,2024-06-30,Learning Resources,Neutral
+S93504,HIS635,History,I really enjoyed the History course. The Teaching Quality was excellent.,5,2024-04-26,Teaching Quality,Positive
+S92761,BIO736,Biology,The instructor's Course Content approach in Biology was outstanding.,4,2025-03-17,Course Content,Positive
+S42844,PSY920,Psychology,I really enjoyed the Psychology course. The Course Content was excellent.,4,2025-03-10,Course Content,Positive
+S73534,ECO134,Economics,I found the Teaching Quality in Economics to be very well organized and useful.,4,2024-05-04,Teaching Quality,Positive
+S44325,BIO623,Biology,The Facilities in the Biology class exceeded my expectations.,5,2024-11-05,Facilities,Positive
+S17817,BIO207,Biology,I really enjoyed the Biology course. The Facilities was excellent.,4,2024-06-27,Facilities,Positive
+S55380,ECO368,Economics,I really enjoyed the Economics course. The Support Services was excellent.,5,2024-06-07,Support Services,Positive
+S13247,PHY130,Physics,The Course Content in the Physics class exceeded my expectations.,5,2024-09-21,Course Content,Positive
+S86500,ECO496,Economics,The Learning Resources in Economics needs significant improvement.,2,2025-01-27,Learning Resources,Negative
+S70268,COM459,Computer Science,I struggled with Computer Science due to inadequate Facilities.,1,2024-10-04,Facilities,Negative
+S48174,ECO600,Economics,The Learning Resources in the Economics class exceeded my expectations.,5,2024-06-20,Learning Resources,Positive
+S71976,BIO363,Biology,The instructor's Assessment Methods approach in Biology was outstanding.,4,2024-08-08,Assessment Methods,Positive
+S59373,MAT802,Mathematics,Neither good nor bad Course Content in the Mathematics course.,4,2024-10-10,Course Content,Neutral
+S65868,MAT478,Mathematics,"The Mathematics course had reasonable Facilities, but could be improved.",4,2024-05-24,Facilities,Neutral
+S10033,PSY193,Psychology,The Course Content in the Psychology class exceeded my expectations.,5,2024-08-04,Course Content,Positive
+S37875,LIT483,Literature,I really enjoyed the Literature course. The Facilities was excellent.,4,2024-05-14,Facilities,Positive
+S71170,ECO143,Economics,I found the Teaching Quality in Economics to be very well organized and useful.,5,2024-08-24,Teaching Quality,Positive
+S35413,ECO910,Economics,"Great Assessment Methods in the Economics course, very helpful for my learning.",4,2024-11-12,Assessment Methods,Positive
+S36650,PHY834,Physics,The Learning Resources in Physics met the basic requirements.,3,2024-06-14,Learning Resources,Neutral
+S38189,MAT310,Mathematics,"I think the Teaching Quality in Mathematics was average, nothing special.",3,2024-11-08,Teaching Quality,Neutral
+S57172,COM944,Computer Science,"Great Facilities in the Computer Science course, very helpful for my learning.",5,2024-10-04,Facilities,Positive
+S27700,LIT457,Literature,The Learning Resources in Literature needs significant improvement.,2,2024-10-25,Learning Resources,Negative
+S34489,PHY803,Physics,The Support Services in Physics needs significant improvement.,1,2024-05-25,Support Services,Negative
+S56999,MAT211,Mathematics,The instructor's Assessment Methods approach in Mathematics was outstanding.,4,2024-06-01,Assessment Methods,Positive
+S47228,MAT378,Mathematics,The Assessment Methods in Mathematics met the basic requirements.,4,2024-11-18,Assessment Methods,Neutral
+S55736,BIO201,Biology,Neither good nor bad Support Services in the Biology course.,3,2024-08-13,Support Services,Neutral
+S26755,CHE274,Chemistry,I found the Learning Resources in Chemistry to be very well organized and useful.,4,2024-06-30,Learning Resources,Positive
+S25353,MAT278,Mathematics,The Course Content in the Mathematics class exceeded my expectations.,4,2024-05-08,Course Content,Positive
+S38255,PSY985,Psychology,The Support Services in Psychology needs significant improvement.,1,2024-12-16,Support Services,Negative
+S14504,PSY311,Psychology,The instructor's Learning Resources approach in Psychology was outstanding.,5,2024-12-15,Learning Resources,Positive
+S69838,BIO323,Biology,I really enjoyed the Biology course. The Course Content was excellent.,5,2024-04-18,Course Content,Positive
+S25587,HIS461,History,The Course Content in the History class exceeded my expectations.,4,2024-07-11,Course Content,Positive
+S51593,BIO115,Biology,"Great Support Services in the Biology course, very helpful for my learning.",5,2025-01-25,Support Services,Positive
+S84754,HIS438,History,The instructor's Teaching Quality approach in History was outstanding.,5,2024-11-30,Teaching Quality,Positive
+S57326,PSY589,Psychology,The Learning Resources in the Psychology course was adequate.,3,2025-01-11,Learning Resources,Neutral
+S86060,HIS798,History,"Great Support Services in the History course, very helpful for my learning.",4,2025-01-25,Support Services,Positive
+S77168,HIS224,History,Neither good nor bad Assessment Methods in the History course.,3,2024-11-20,Assessment Methods,Neutral
+S56285,PSY651,Psychology,The Facilities in the Psychology class exceeded my expectations.,4,2024-07-14,Facilities,Positive
+S16842,PHY362,Physics,"I think the Facilities in Physics was average, nothing special.",3,2024-09-17,Facilities,Neutral
+S92787,BIO604,Biology,"The Biology course had reasonable Support Services, but could be improved.",3,2024-11-10,Support Services,Neutral
+S29088,COM888,Computer Science,"The Computer Science course had reasonable Facilities, but could be improved.",3,2024-12-15,Facilities,Neutral
+S39902,PHY328,Physics,The instructor's Course Content approach in Physics was outstanding.,4,2025-04-06,Course Content,Positive
+S30938,MAT771,Mathematics,The instructor's Facilities approach in Mathematics was outstanding.,4,2025-03-10,Facilities,Positive
+S37886,ECO151,Economics,The Teaching Quality in the Economics class exceeded my expectations.,5,2024-10-31,Teaching Quality,Positive
+S95587,COM751,Computer Science,I really enjoyed the Computer Science course. The Assessment Methods was excellent.,5,2024-07-19,Assessment Methods,Positive
+S76718,PSY876,Psychology,"Great Course Content in the Psychology course, very helpful for my learning.",4,2024-11-30,Course Content,Positive
+S93273,COM867,Computer Science,The instructor's Support Services approach in Computer Science was outstanding.,4,2024-12-26,Support Services,Positive
+S78629,PHY957,Physics,I really enjoyed the Physics course. The Teaching Quality was excellent.,4,2024-10-24,Teaching Quality,Positive
+S90556,COM754,Computer Science,"Great Learning Resources in the Computer Science course, very helpful for my learning.",4,2024-10-23,Learning Resources,Positive
+S58760,BIO110,Biology,The instructor's Facilities approach in Biology was outstanding.,4,2024-08-10,Facilities,Positive
+S36172,MAT574,Mathematics,I found the Course Content in Mathematics to be very well organized and useful.,5,2024-12-17,Course Content,Positive
+S30034,MAT951,Mathematics,I really enjoyed the Mathematics course. The Course Content was excellent.,5,2025-03-28,Course Content,Positive
+S99820,ECO877,Economics,The Learning Resources in the Economics course was adequate.,4,2025-01-27,Learning Resources,Neutral
+S70814,BIO812,Biology,The Support Services in Biology needs significant improvement.,2,2025-04-05,Support Services,Negative
+S62204,MAT196,Mathematics,"Great Assessment Methods in the Mathematics course, very helpful for my learning.",5,2024-11-03,Assessment Methods,Positive
+S74919,HIS898,History,I found the Facilities in History to be very well organized and useful.,4,2024-10-03,Facilities,Positive
+S88500,CHE695,Chemistry,"I think the Support Services in Chemistry was average, nothing special.",4,2024-05-03,Support Services,Neutral
+S91899,LIT753,Literature,I really enjoyed the Literature course. The Learning Resources was excellent.,5,2025-01-08,Learning Resources,Positive
+S46306,LIT119,Literature,I found the Facilities in Literature to be very well organized and useful.,5,2025-03-15,Facilities,Positive
+S89899,HIS550,History,The Assessment Methods in the History class was below standard.,1,2025-02-06,Assessment Methods,Negative
+S79662,BIO572,Biology,I really enjoyed the Biology course. The Course Content was excellent.,5,2024-09-29,Course Content,Positive
+S18700,ECO419,Economics,The Teaching Quality in Economics met the basic requirements.,3,2024-07-10,Teaching Quality,Neutral
+S76817,CHE504,Chemistry,The Course Content in Chemistry met the basic requirements.,3,2024-11-21,Course Content,Neutral
+S39044,HIS170,History,The instructor's Course Content approach in History was outstanding.,4,2025-01-17,Course Content,Positive
+S31480,PSY747,Psychology,The Facilities in the Psychology class exceeded my expectations.,5,2024-12-04,Facilities,Positive
+S37081,MAT998,Mathematics,I found the Facilities in Mathematics to be very well organized and useful.,5,2024-07-02,Facilities,Positive
+S70370,BIO512,Biology,The instructor's Learning Resources approach in Biology was outstanding.,4,2025-01-11,Learning Resources,Positive
+S30237,LIT697,Literature,Neither good nor bad Teaching Quality in the Literature course.,4,2024-06-25,Teaching Quality,Neutral
+S29139,LIT886,Literature,I struggled with Literature due to inadequate Teaching Quality.,1,2024-04-21,Teaching Quality,Negative
+S78588,MAT219,Mathematics,Neither good nor bad Course Content in the Mathematics course.,4,2025-01-21,Course Content,Neutral
+S89927,HIS476,History,I really enjoyed the History course. The Teaching Quality was excellent.,5,2024-09-18,Teaching Quality,Positive
+S66246,CHE581,Chemistry,The instructor's Facilities approach in Chemistry was outstanding.,5,2024-11-01,Facilities,Positive
+S62456,COM786,Computer Science,"Great Teaching Quality in the Computer Science course, very helpful for my learning.",5,2024-11-06,Teaching Quality,Positive
+S16350,PSY278,Psychology,I struggled with Psychology due to inadequate Assessment Methods.,1,2025-03-26,Assessment Methods,Negative
+S67164,BIO445,Biology,I found the Assessment Methods in Biology to be very well organized and useful.,5,2024-06-18,Assessment Methods,Positive
+S32312,LIT624,Literature,"The Literature course had reasonable Course Content, but could be improved.",4,2025-03-21,Course Content,Neutral
+S29955,CHE444,Chemistry,The Facilities in the Chemistry class was below standard.,1,2024-09-20,Facilities,Negative
+S82102,PSY736,Psychology,I found the Teaching Quality in Psychology to be very well organized and useful.,5,2024-11-24,Teaching Quality,Positive
+S95605,ECO466,Economics,I was disappointed with the Assessment Methods in the Economics course.,3,2024-08-08,Assessment Methods,Negative
+S70622,HIS373,History,The Course Content in History needs significant improvement.,1,2025-01-26,Course Content,Negative
+S22575,PHY998,Physics,I found the Facilities in Physics to be very well organized and useful.,5,2024-08-23,Facilities,Positive
+S82735,LIT942,Literature,The Teaching Quality in Literature needs significant improvement.,3,2025-02-18,Teaching Quality,Negative
+S98785,PHY463,Physics,The Facilities in the Physics class exceeded my expectations.,4,2024-12-27,Facilities,Positive
+S99714,PHY305,Physics,"The Physics course had reasonable Learning Resources, but could be improved.",3,2024-08-07,Learning Resources,Neutral
+S25801,CHE498,Chemistry,"Great Support Services in the Chemistry course, very helpful for my learning.",5,2024-11-27,Support Services,Positive
+S80220,PSY654,Psychology,I was disappointed with the Teaching Quality in the Psychology course.,2,2024-11-16,Teaching Quality,Negative
+S67608,COM120,Computer Science,I really enjoyed the Computer Science course. The Course Content was excellent.,5,2024-07-24,Course Content,Positive
+S19960,CHE726,Chemistry,Neither good nor bad Support Services in the Chemistry course.,4,2025-02-26,Support Services,Neutral
+S65529,PHY183,Physics,The instructor's Course Content approach in Physics was outstanding.,5,2024-10-09,Course Content,Positive
+S13200,CHE863,Chemistry,The instructor's Assessment Methods approach in Chemistry was outstanding.,5,2025-01-06,Assessment Methods,Positive
+S16489,MAT678,Mathematics,Neither good nor bad Support Services in the Mathematics course.,4,2025-02-19,Support Services,Neutral
+S91553,HIS592,History,I really enjoyed the History course. The Course Content was excellent.,4,2024-07-27,Course Content,Positive
+S33231,MAT599,Mathematics,I really enjoyed the Mathematics course. The Support Services was excellent.,4,2024-08-16,Support Services,Positive
+S49603,ECO979,Economics,"Great Support Services in the Economics course, very helpful for my learning.",5,2024-08-23,Support Services,Positive
+S26737,PSY821,Psychology,"Great Assessment Methods in the Psychology course, very helpful for my learning.",5,2024-11-27,Assessment Methods,Positive
+S29981,MAT168,Mathematics,I struggled with Mathematics due to inadequate Support Services.,1,2024-12-10,Support Services,Negative
+S86784,COM244,Computer Science,"Great Support Services in the Computer Science course, very helpful for my learning.",5,2024-12-30,Support Services,Positive
+S27908,ECO779,Economics,"I think the Assessment Methods in Economics was average, nothing special.",3,2024-12-19,Assessment Methods,Neutral
+S89061,HIS283,History,"Great Assessment Methods in the History course, very helpful for my learning.",5,2024-10-06,Assessment Methods,Positive
+S74291,PHY947,Physics,"The Physics course had reasonable Course Content, but could be improved.",4,2024-04-13,Course Content,Neutral
+S58630,PSY354,Psychology,The instructor's Support Services approach in Psychology was outstanding.,5,2025-01-20,Support Services,Positive
+S74970,ECO977,Economics,"Great Facilities in the Economics course, very helpful for my learning.",5,2024-09-13,Facilities,Positive
+S73394,COM979,Computer Science,The instructor's Learning Resources approach in Computer Science was outstanding.,4,2025-03-18,Learning Resources,Positive
+S95324,LIT525,Literature,The Course Content in Literature met the basic requirements.,4,2025-02-02,Course Content,Neutral
+S50833,CHE253,Chemistry,I really enjoyed the Chemistry course. The Course Content was excellent.,5,2024-12-04,Course Content,Positive
+S77966,PSY386,Psychology,"Great Assessment Methods in the Psychology course, very helpful for my learning.",5,2024-07-24,Assessment Methods,Positive
+S36199,HIS920,History,The Assessment Methods in History needs significant improvement.,1,2024-04-30,Assessment Methods,Negative
+S79489,ECO399,Economics,The instructor's Facilities approach in Economics was outstanding.,4,2025-03-03,Facilities,Positive
+S18350,BIO840,Biology,"I think the Assessment Methods in Biology was average, nothing special.",3,2024-08-09,Assessment Methods,Neutral
+S88920,PHY333,Physics,I really enjoyed the Physics course. The Assessment Methods was excellent.,5,2024-07-15,Assessment Methods,Positive
+S13808,BIO682,Biology,The Learning Resources in the Biology class exceeded my expectations.,4,2024-06-06,Learning Resources,Positive
+S25470,HIS711,History,Poor Teaching Quality made the History course difficult to follow.,1,2024-04-17,Teaching Quality,Negative
+S66495,LIT529,Literature,"The Literature course had reasonable Support Services, but could be improved.",4,2024-08-16,Support Services,Neutral
+S92040,PSY655,Psychology,I really enjoyed the Psychology course. The Assessment Methods was excellent.,4,2025-03-13,Assessment Methods,Positive
+S46854,CHE859,Chemistry,"Great Facilities in the Chemistry course, very helpful for my learning.",4,2025-03-07,Facilities,Positive
+S19744,MAT107,Mathematics,The instructor's Teaching Quality approach in Mathematics was outstanding.,5,2024-10-31,Teaching Quality,Positive
+S97914,PSY955,Psychology,I found the Facilities in Psychology to be very well organized and useful.,4,2024-09-28,Facilities,Positive
+S36037,HIS838,History,I really enjoyed the History course. The Teaching Quality was excellent.,4,2024-06-21,Teaching Quality,Positive
+S44908,HIS910,History,"I think the Facilities in History was average, nothing special.",4,2024-09-05,Facilities,Neutral
+S23970,BIO730,Biology,The Teaching Quality in the Biology class exceeded my expectations.,4,2024-10-01,Teaching Quality,Positive
+S23142,BIO415,Biology,The Support Services in the Biology class exceeded my expectations.,4,2024-08-30,Support Services,Positive
+S11603,MAT351,Mathematics,The instructor's Course Content approach in Mathematics was outstanding.,4,2025-03-11,Course Content,Positive
+S15909,LIT553,Literature,The instructor's Teaching Quality approach in Literature was outstanding.,5,2024-09-19,Teaching Quality,Positive
+S18058,CHE588,Chemistry,The Support Services in the Chemistry class was below standard.,2,2024-12-24,Support Services,Negative
+S42150,LIT792,Literature,The instructor's Teaching Quality approach in Literature was outstanding.,5,2024-04-12,Teaching Quality,Positive
+S70828,COM474,Computer Science,"Great Support Services in the Computer Science course, very helpful for my learning.",4,2024-09-19,Support Services,Positive
+S46281,BIO728,Biology,"Great Support Services in the Biology course, very helpful for my learning.",4,2024-11-21,Support Services,Positive
+S50485,BIO943,Biology,I found the Support Services in Biology to be very well organized and useful.,5,2025-03-05,Support Services,Positive
+S39985,CHE401,Chemistry,"Great Assessment Methods in the Chemistry course, very helpful for my learning.",4,2024-12-23,Assessment Methods,Positive
+S42845,PSY796,Psychology,The Course Content in the Psychology class exceeded my expectations.,5,2024-09-13,Course Content,Positive
+S24703,BIO379,Biology,"The Biology course had reasonable Teaching Quality, but could be improved.",3,2025-02-25,Teaching Quality,Neutral
+S53672,CHE815,Chemistry,"I think the Learning Resources in Chemistry was average, nothing special.",4,2024-09-05,Learning Resources,Neutral
+S18244,LIT219,Literature,"The Literature course had reasonable Support Services, but could be improved.",4,2024-08-16,Support Services,Neutral
+S34002,BIO985,Biology,"The Biology course had reasonable Support Services, but could be improved.",4,2024-08-18,Support Services,Neutral
+S62077,ECO211,Economics,The Course Content in the Economics course was adequate.,4,2024-08-14,Course Content,Neutral
+S59584,HIS830,History,The Assessment Methods in History needs significant improvement.,1,2024-08-23,Assessment Methods,Negative
+S54267,CHE616,Chemistry,I really enjoyed the Chemistry course. The Support Services was excellent.,4,2025-02-07,Support Services,Positive
+S34620,COM405,Computer Science,I really enjoyed the Computer Science course. The Learning Resources was excellent.,5,2025-01-13,Learning Resources,Positive
+S89164,MAT525,Mathematics,The Course Content in Mathematics needs significant improvement.,2,2024-11-10,Course Content,Negative
+S34549,COM322,Computer Science,The Facilities in the Computer Science class exceeded my expectations.,5,2024-11-27,Facilities,Positive
+S11978,COM669,Computer Science,The Support Services in the Computer Science class was below standard.,2,2024-05-04,Support Services,Negative
+S85801,PSY513,Psychology,I struggled with Psychology due to inadequate Facilities.,2,2024-08-14,Facilities,Negative
+S18628,BIO869,Biology,I found the Assessment Methods in Biology to be very well organized and useful.,5,2025-03-17,Assessment Methods,Positive
+S18847,LIT992,Literature,"Great Learning Resources in the Literature course, very helpful for my learning.",4,2024-12-18,Learning Resources,Positive
+S68487,CHE503,Chemistry,The Teaching Quality in the Chemistry class exceeded my expectations.,5,2024-06-22,Teaching Quality,Positive
+S71752,COM989,Computer Science,Poor Support Services made the Computer Science course difficult to follow.,1,2024-08-01,Support Services,Negative
+S37745,COM413,Computer Science,"The Computer Science course had reasonable Teaching Quality, but could be improved.",3,2024-08-13,Teaching Quality,Neutral
+S26204,PHY312,Physics,"The Physics course had reasonable Course Content, but could be improved.",3,2024-09-01,Course Content,Neutral
+S71095,ECO830,Economics,"Great Teaching Quality in the Economics course, very helpful for my learning.",4,2024-10-06,Teaching Quality,Positive
+S89952,HIS381,History,I found the Teaching Quality in History to be very well organized and useful.,5,2024-05-08,Teaching Quality,Positive
+S42056,LIT915,Literature,"The Literature course had reasonable Learning Resources, but could be improved.",3,2025-02-05,Learning Resources,Neutral
+S78679,BIO880,Biology,I found the Learning Resources in Biology to be very well organized and useful.,5,2024-06-27,Learning Resources,Positive
+S82971,BIO612,Biology,The Learning Resources in the Biology course was adequate.,3,2024-05-14,Learning Resources,Neutral
+S71621,COM104,Computer Science,I found the Learning Resources in Computer Science to be very well organized and useful.,5,2024-12-20,Learning Resources,Positive
+S15939,CHE151,Chemistry,"Great Facilities in the Chemistry course, very helpful for my learning.",5,2025-01-28,Facilities,Positive
+S83796,COM564,Computer Science,The instructor's Learning Resources approach in Computer Science was outstanding.,5,2024-10-09,Learning Resources,Positive
+S94314,CHE129,Chemistry,"Great Support Services in the Chemistry course, very helpful for my learning.",4,2024-05-17,Support Services,Positive
+S11265,BIO893,Biology,The Support Services in the Biology course was adequate.,4,2024-11-01,Support Services,Neutral
+S87725,PHY484,Physics,"Great Learning Resources in the Physics course, very helpful for my learning.",4,2024-05-05,Learning Resources,Positive
+S36115,LIT181,Literature,"Great Facilities in the Literature course, very helpful for my learning.",5,2024-05-13,Facilities,Positive
+S93259,MAT642,Mathematics,Neither good nor bad Support Services in the Mathematics course.,3,2024-12-21,Support Services,Neutral
+S28693,MAT101,Mathematics,The instructor's Support Services approach in Mathematics was outstanding.,5,2024-09-29,Support Services,Positive
+S69124,HIS351,History,"Great Learning Resources in the History course, very helpful for my learning.",4,2025-03-07,Learning Resources,Positive
+S99333,LIT773,Literature,I found the Facilities in Literature to be very well organized and useful.,4,2024-04-14,Facilities,Positive
+S66418,PHY691,Physics,"The Physics course had reasonable Learning Resources, but could be improved.",3,2024-08-21,Learning Resources,Neutral
+S31149,LIT566,Literature,"The Literature course had reasonable Assessment Methods, but could be improved.",4,2025-03-21,Assessment Methods,Neutral
+S14353,LIT886,Literature,"I think the Course Content in Literature was average, nothing special.",3,2024-07-11,Course Content,Neutral
+S16242,CHE842,Chemistry,"I think the Support Services in Chemistry was average, nothing special.",3,2024-12-10,Support Services,Neutral
+S98397,MAT304,Mathematics,The Support Services in Mathematics met the basic requirements.,4,2024-07-22,Support Services,Neutral
+S76910,ECO689,Economics,Neither good nor bad Support Services in the Economics course.,3,2024-08-11,Support Services,Neutral
+S38093,PHY636,Physics,The Assessment Methods in Physics met the basic requirements.,3,2024-10-08,Assessment Methods,Neutral
+S37948,BIO807,Biology,I struggled with Biology due to inadequate Learning Resources.,1,2024-08-16,Learning Resources,Negative
+S51813,HIS285,History,The instructor's Learning Resources approach in History was outstanding.,4,2025-02-14,Learning Resources,Positive
+S42547,COM141,Computer Science,"Great Learning Resources in the Computer Science course, very helpful for my learning.",4,2024-09-29,Learning Resources,Positive
+S70702,PHY222,Physics,I really enjoyed the Physics course. The Support Services was excellent.,5,2024-10-05,Support Services,Positive
+S73700,PSY306,Psychology,The Support Services in the Psychology class was below standard.,3,2024-06-30,Support Services,Negative
+S35096,MAT760,Mathematics,The Facilities in Mathematics met the basic requirements.,4,2024-08-28,Facilities,Neutral
+S75008,ECO440,Economics,I really enjoyed the Economics course. The Support Services was excellent.,5,2024-06-03,Support Services,Positive
+S27325,BIO835,Biology,Poor Teaching Quality made the Biology course difficult to follow.,3,2024-09-03,Teaching Quality,Negative
+S83964,PHY121,Physics,I really enjoyed the Physics course. The Facilities was excellent.,4,2024-06-15,Facilities,Positive
+S84133,PHY375,Physics,"Great Facilities in the Physics course, very helpful for my learning.",4,2024-05-23,Facilities,Positive
+S12337,PHY559,Physics,I found the Learning Resources in Physics to be very well organized and useful.,5,2025-01-09,Learning Resources,Positive
+S76039,BIO772,Biology,I found the Facilities in Biology to be very well organized and useful.,4,2024-10-02,Facilities,Positive
+S38679,CHE232,Chemistry,Neither good nor bad Teaching Quality in the Chemistry course.,3,2024-09-09,Teaching Quality,Neutral
+S15632,HIS721,History,"Great Assessment Methods in the History course, very helpful for my learning.",4,2024-10-28,Assessment Methods,Positive
+S46308,MAT926,Mathematics,I found the Teaching Quality in Mathematics to be very well organized and useful.,4,2025-02-24,Teaching Quality,Positive
+S42779,LIT831,Literature,I found the Learning Resources in Literature to be very well organized and useful.,4,2024-12-11,Learning Resources,Positive
+S23207,CHE448,Chemistry,I found the Support Services in Chemistry to be very well organized and useful.,4,2024-04-13,Support Services,Positive
+S99471,LIT885,Literature,"I think the Learning Resources in Literature was average, nothing special.",3,2025-02-05,Learning Resources,Neutral
+S95373,PHY389,Physics,The Facilities in the Physics course was adequate.,3,2025-01-22,Facilities,Neutral
+S77615,PSY188,Psychology,The Facilities in Psychology met the basic requirements.,4,2025-02-11,Facilities,Neutral
+S51400,LIT601,Literature,I struggled with Literature due to inadequate Assessment Methods.,1,2024-12-02,Assessment Methods,Negative
+S44979,BIO632,Biology,I really enjoyed the Biology course. The Course Content was excellent.,5,2024-08-01,Course Content,Positive
+S77649,BIO176,Biology,The Learning Resources in the Biology class exceeded my expectations.,4,2024-09-30,Learning Resources,Positive
+S99136,LIT212,Literature,I struggled with Literature due to inadequate Course Content.,1,2025-01-24,Course Content,Negative
+S26298,CHE815,Chemistry,The Support Services in the Chemistry class exceeded my expectations.,5,2024-05-11,Support Services,Positive
+S37826,COM151,Computer Science,The instructor's Support Services approach in Computer Science was outstanding.,5,2024-10-29,Support Services,Positive
+S64813,CHE421,Chemistry,I was disappointed with the Support Services in the Chemistry course.,2,2024-09-02,Support Services,Negative
+S91633,CHE479,Chemistry,The Course Content in the Chemistry class exceeded my expectations.,5,2024-07-27,Course Content,Positive
+S27014,CHE115,Chemistry,"The Chemistry course had reasonable Assessment Methods, but could be improved.",3,2024-11-17,Assessment Methods,Neutral
+S30657,PSY131,Psychology,The Support Services in Psychology needs significant improvement.,1,2025-02-23,Support Services,Negative
+S83176,CHE159,Chemistry,"Great Facilities in the Chemistry course, very helpful for my learning.",5,2024-05-30,Facilities,Positive
+S75953,HIS665,History,The Learning Resources in the History class exceeded my expectations.,4,2024-04-22,Learning Resources,Positive
+S76352,PHY548,Physics,I really enjoyed the Physics course. The Facilities was excellent.,5,2024-05-05,Facilities,Positive
+S14810,PSY379,Psychology,I found the Assessment Methods in Psychology to be very well organized and useful.,4,2024-05-18,Assessment Methods,Positive
+S29443,HIS668,History,"The History course had reasonable Support Services, but could be improved.",3,2025-01-26,Support Services,Neutral
+S76680,PSY236,Psychology,The Support Services in the Psychology class exceeded my expectations.,4,2024-09-16,Support Services,Positive
+S11101,LIT793,Literature,I found the Course Content in Literature to be very well organized and useful.,5,2025-01-10,Course Content,Positive
+S57578,MAT373,Mathematics,The Assessment Methods in the Mathematics class was below standard.,3,2024-10-06,Assessment Methods,Negative
+S69492,PHY189,Physics,"The Physics course had reasonable Facilities, but could be improved.",3,2024-10-14,Facilities,Neutral
+S26265,CHE666,Chemistry,"Great Facilities in the Chemistry course, very helpful for my learning.",5,2025-04-05,Facilities,Positive
+S69381,PSY919,Psychology,The instructor's Facilities approach in Psychology was outstanding.,4,2025-03-10,Facilities,Positive
+S90489,ECO740,Economics,I was disappointed with the Course Content in the Economics course.,2,2024-07-30,Course Content,Negative
+S37627,BIO377,Biology,The Teaching Quality in the Biology class exceeded my expectations.,5,2025-03-28,Teaching Quality,Positive
+S72479,MAT117,Mathematics,"Great Teaching Quality in the Mathematics course, very helpful for my learning.",4,2024-09-06,Teaching Quality,Positive
+S79420,ECO327,Economics,I found the Assessment Methods in Economics to be very well organized and useful.,5,2024-12-30,Assessment Methods,Positive
+S36587,ECO851,Economics,The Assessment Methods in the Economics course was adequate.,3,2025-01-31,Assessment Methods,Neutral
+S84872,BIO157,Biology,"Great Teaching Quality in the Biology course, very helpful for my learning.",4,2025-01-04,Teaching Quality,Positive
+S17973,LIT596,Literature,The Learning Resources in the Literature course was adequate.,3,2024-10-14,Learning Resources,Neutral
+S36169,HIS969,History,The Facilities in the History class exceeded my expectations.,5,2024-07-14,Facilities,Positive
+S42341,MAT227,Mathematics,The instructor's Support Services approach in Mathematics was outstanding.,4,2024-08-26,Support Services,Positive
+S19673,HIS162,History,"Great Learning Resources in the History course, very helpful for my learning.",5,2024-09-08,Learning Resources,Positive
+S33532,PHY949,Physics,I found the Assessment Methods in Physics to be very well organized and useful.,4,2025-01-12,Assessment Methods,Positive
+S36292,BIO386,Biology,"The Biology course had reasonable Course Content, but could be improved.",3,2025-01-13,Course Content,Neutral
+S36295,COM706,Computer Science,The Course Content in Computer Science met the basic requirements.,4,2024-06-20,Course Content,Neutral
+S30437,LIT356,Literature,Neither good nor bad Facilities in the Literature course.,4,2024-05-12,Facilities,Neutral
+S60328,PHY573,Physics,I really enjoyed the Physics course. The Learning Resources was excellent.,5,2024-08-30,Learning Resources,Positive
+S64969,PHY609,Physics,Neither good nor bad Facilities in the Physics course.,3,2025-04-05,Facilities,Neutral
+S18345,PHY538,Physics,"Great Assessment Methods in the Physics course, very helpful for my learning.",4,2024-07-26,Assessment Methods,Positive
+S58113,CHE562,Chemistry,The instructor's Course Content approach in Chemistry was outstanding.,5,2025-01-03,Course Content,Positive
+S54917,BIO299,Biology,"Great Support Services in the Biology course, very helpful for my learning.",4,2024-05-05,Support Services,Positive
+S79160,MAT362,Mathematics,Neither good nor bad Support Services in the Mathematics course.,4,2024-05-06,Support Services,Neutral
+S57673,PSY423,Psychology,The instructor's Course Content approach in Psychology was outstanding.,4,2025-03-19,Course Content,Positive
+S96481,PHY178,Physics,I was disappointed with the Support Services in the Physics course.,2,2024-10-05,Support Services,Negative
+S15658,CHE992,Chemistry,Poor Learning Resources made the Chemistry course difficult to follow.,1,2024-08-22,Learning Resources,Negative
+S72123,MAT835,Mathematics,"Great Assessment Methods in the Mathematics course, very helpful for my learning.",5,2024-07-17,Assessment Methods,Positive
+S85798,LIT159,Literature,"The Literature course had reasonable Assessment Methods, but could be improved.",3,2025-03-21,Assessment Methods,Neutral
+S23418,HIS876,History,The instructor's Teaching Quality approach in History was outstanding.,4,2025-01-22,Teaching Quality,Positive
+S45458,ECO827,Economics,"Great Support Services in the Economics course, very helpful for my learning.",4,2025-03-12,Support Services,Positive
+S30732,PSY672,Psychology,I really enjoyed the Psychology course. The Support Services was excellent.,4,2024-11-29,Support Services,Positive
+S99735,MAT631,Mathematics,The Teaching Quality in the Mathematics class was below standard.,3,2024-09-06,Teaching Quality,Negative
+S25923,COM853,Computer Science,The Support Services in the Computer Science course was adequate.,4,2024-09-08,Support Services,Neutral
+S87225,ECO308,Economics,I really enjoyed the Economics course. The Assessment Methods was excellent.,4,2024-11-05,Assessment Methods,Positive
+S56956,LIT988,Literature,Poor Assessment Methods made the Literature course difficult to follow.,3,2024-09-03,Assessment Methods,Negative
+S95714,BIO837,Biology,The Support Services in the Biology class was below standard.,2,2024-06-21,Support Services,Negative
+S51331,ECO591,Economics,The Course Content in the Economics course was adequate.,4,2024-10-12,Course Content,Neutral
+S41199,ECO533,Economics,The Assessment Methods in Economics needs significant improvement.,3,2024-04-26,Assessment Methods,Negative
+S60371,MAT514,Mathematics,I found the Course Content in Mathematics to be very well organized and useful.,5,2025-01-08,Course Content,Positive
+S85059,PSY769,Psychology,"Great Support Services in the Psychology course, very helpful for my learning.",5,2024-04-17,Support Services,Positive
+S70078,HIS784,History,The instructor's Teaching Quality approach in History was outstanding.,4,2024-11-17,Teaching Quality,Positive
+S46365,HIS779,History,I found the Facilities in History to be very well organized and useful.,4,2025-04-12,Facilities,Positive
+S99035,PSY548,Psychology,I found the Support Services in Psychology to be very well organized and useful.,5,2025-04-07,Support Services,Positive
+S31454,CHE995,Chemistry,The instructor's Course Content approach in Chemistry was outstanding.,5,2024-05-15,Course Content,Positive
+S63404,ECO793,Economics,"Great Support Services in the Economics course, very helpful for my learning.",4,2024-12-01,Support Services,Positive
+S76883,LIT107,Literature,The Support Services in the Literature course was adequate.,4,2025-01-10,Support Services,Neutral
+S69674,ECO811,Economics,"I think the Course Content in Economics was average, nothing special.",4,2024-09-24,Course Content,Neutral
+S15145,HIS681,History,I found the Course Content in History to be very well organized and useful.,4,2025-02-16,Course Content,Positive
+S92424,MAT817,Mathematics,I struggled with Mathematics due to inadequate Learning Resources.,3,2024-06-12,Learning Resources,Negative
+S51792,COM315,Computer Science,The Learning Resources in the Computer Science class was below standard.,2,2025-03-02,Learning Resources,Negative
+S47465,PSY239,Psychology,"Great Assessment Methods in the Psychology course, very helpful for my learning.",5,2024-05-14,Assessment Methods,Positive
+S66907,PHY409,Physics,I really enjoyed the Physics course. The Learning Resources was excellent.,4,2024-07-20,Learning Resources,Positive
+S87740,CHE775,Chemistry,I struggled with Chemistry due to inadequate Course Content.,3,2024-08-27,Course Content,Negative
+S58389,COM805,Computer Science,I really enjoyed the Computer Science course. The Assessment Methods was excellent.,4,2024-05-06,Assessment Methods,Positive
+S71354,ECO574,Economics,Neither good nor bad Learning Resources in the Economics course.,3,2025-03-25,Learning Resources,Neutral
+S76212,ECO680,Economics,I struggled with Economics due to inadequate Teaching Quality.,3,2024-07-29,Teaching Quality,Negative
+S35127,COM755,Computer Science,I found the Learning Resources in Computer Science to be very well organized and useful.,5,2024-06-29,Learning Resources,Positive
+S38454,PHY722,Physics,The instructor's Facilities approach in Physics was outstanding.,5,2024-09-04,Facilities,Positive
+S24096,COM392,Computer Science,I really enjoyed the Computer Science course. The Learning Resources was excellent.,5,2024-05-15,Learning Resources,Positive
+S55391,HIS775,History,"I think the Support Services in History was average, nothing special.",3,2025-02-24,Support Services,Neutral
+S22923,HIS918,History,I found the Course Content in History to be very well organized and useful.,4,2024-07-22,Course Content,Positive
+S13889,HIS386,History,"The History course had reasonable Learning Resources, but could be improved.",4,2024-11-12,Learning Resources,Neutral
+S25107,CHE244,Chemistry,The Facilities in Chemistry needs significant improvement.,3,2024-09-25,Facilities,Negative
+S74861,ECO397,Economics,I found the Facilities in Economics to be very well organized and useful.,5,2024-10-08,Facilities,Positive
+S37453,COM386,Computer Science,"Great Course Content in the Computer Science course, very helpful for my learning.",4,2025-02-17,Course Content,Positive
+S53860,HIS270,History,The Assessment Methods in the History class exceeded my expectations.,5,2024-12-08,Assessment Methods,Positive
+S41514,MAT166,Mathematics,Poor Support Services made the Mathematics course difficult to follow.,3,2024-08-17,Support Services,Negative
+S72844,PHY976,Physics,The Support Services in the Physics class exceeded my expectations.,4,2025-04-02,Support Services,Positive
+S15135,ECO148,Economics,I really enjoyed the Economics course. The Course Content was excellent.,5,2025-04-07,Course Content,Positive
+S40191,BIO703,Biology,The instructor's Learning Resources approach in Biology was outstanding.,4,2024-09-21,Learning Resources,Positive
+S77500,HIS490,History,The instructor's Teaching Quality approach in History was outstanding.,5,2024-12-07,Teaching Quality,Positive
+S79701,COM486,Computer Science,The Teaching Quality in the Computer Science course was adequate.,4,2024-04-17,Teaching Quality,Neutral
+S19641,LIT702,Literature,"Great Learning Resources in the Literature course, very helpful for my learning.",5,2025-01-14,Learning Resources,Positive
+S34719,PHY117,Physics,I really enjoyed the Physics course. The Assessment Methods was excellent.,5,2025-04-06,Assessment Methods,Positive
+S25230,ECO522,Economics,The instructor's Facilities approach in Economics was outstanding.,4,2024-12-15,Facilities,Positive
+S24915,HIS451,History,I really enjoyed the History course. The Facilities was excellent.,5,2024-08-18,Facilities,Positive
+S25768,ECO234,Economics,I really enjoyed the Economics course. The Support Services was excellent.,4,2025-04-01,Support Services,Positive
+S34869,BIO893,Biology,The instructor's Course Content approach in Biology was outstanding.,5,2025-02-01,Course Content,Positive
+S78974,BIO904,Biology,I really enjoyed the Biology course. The Facilities was excellent.,5,2024-12-10,Facilities,Positive
+S65647,ECO575,Economics,Poor Assessment Methods made the Economics course difficult to follow.,1,2024-09-13,Assessment Methods,Negative
+S18231,BIO350,Biology,I found the Facilities in Biology to be very well organized and useful.,4,2024-06-16,Facilities,Positive
+S93228,ECO376,Economics,I found the Assessment Methods in Economics to be very well organized and useful.,5,2024-06-27,Assessment Methods,Positive
+S45276,COM351,Computer Science,The Learning Resources in the Computer Science class was below standard.,2,2024-11-13,Learning Resources,Negative
+S57284,HIS473,History,I really enjoyed the History course. The Facilities was excellent.,4,2024-06-24,Facilities,Positive
+S94221,LIT177,Literature,"The Literature course had reasonable Course Content, but could be improved.",4,2024-09-11,Course Content,Neutral
+S53790,PSY384,Psychology,"Great Learning Resources in the Psychology course, very helpful for my learning.",5,2025-03-07,Learning Resources,Positive
+S96089,PHY472,Physics,I really enjoyed the Physics course. The Learning Resources was excellent.,4,2024-10-28,Learning Resources,Positive
+S45047,BIO729,Biology,I found the Course Content in Biology to be very well organized and useful.,4,2024-10-17,Course Content,Positive
+S38882,COM172,Computer Science,"Great Learning Resources in the Computer Science course, very helpful for my learning.",4,2024-05-24,Learning Resources,Positive
+S88140,COM262,Computer Science,"Great Support Services in the Computer Science course, very helpful for my learning.",5,2025-03-08,Support Services,Positive
+S35920,HIS296,History,I found the Teaching Quality in History to be very well organized and useful.,5,2024-09-30,Teaching Quality,Positive
+S16199,MAT996,Mathematics,The Course Content in the Mathematics class exceeded my expectations.,4,2024-04-17,Course Content,Positive
+S58534,PSY829,Psychology,I found the Course Content in Psychology to be very well organized and useful.,4,2024-07-25,Course Content,Positive
+S36993,PHY875,Physics,I found the Facilities in Physics to be very well organized and useful.,4,2025-02-22,Facilities,Positive
+S74155,ECO113,Economics,I found the Support Services in Economics to be very well organized and useful.,4,2024-07-18,Support Services,Positive
+S33539,MAT678,Mathematics,I was disappointed with the Learning Resources in the Mathematics course.,1,2024-10-03,Learning Resources,Negative
+S75883,PHY754,Physics,The instructor's Assessment Methods approach in Physics was outstanding.,4,2024-06-29,Assessment Methods,Positive
+S58852,HIS190,History,The Teaching Quality in the History course was adequate.,4,2025-01-20,Teaching Quality,Neutral
+S64864,PSY905,Psychology,I found the Teaching Quality in Psychology to be very well organized and useful.,5,2024-06-18,Teaching Quality,Positive
+S55634,MAT205,Mathematics,I found the Support Services in Mathematics to be very well organized and useful.,5,2024-08-03,Support Services,Positive
+S30695,LIT582,Literature,"Great Facilities in the Literature course, very helpful for my learning.",5,2024-08-16,Facilities,Positive
+S30682,PHY720,Physics,I found the Learning Resources in Physics to be very well organized and useful.,5,2025-04-07,Learning Resources,Positive
+S70467,BIO464,Biology,I found the Assessment Methods in Biology to be very well organized and useful.,4,2024-07-16,Assessment Methods,Positive
+S25884,LIT166,Literature,The Learning Resources in the Literature class exceeded my expectations.,5,2024-11-21,Learning Resources,Positive
+S42770,BIO832,Biology,I really enjoyed the Biology course. The Learning Resources was excellent.,5,2025-01-02,Learning Resources,Positive
+S33334,PSY409,Psychology,The Learning Resources in Psychology met the basic requirements.,3,2024-09-04,Learning Resources,Neutral
+S27490,ECO356,Economics,Neither good nor bad Assessment Methods in the Economics course.,3,2024-08-28,Assessment Methods,Neutral
+S87493,COM249,Computer Science,I found the Course Content in Computer Science to be very well organized and useful.,5,2024-08-26,Course Content,Positive
+S67335,LIT325,Literature,Neither good nor bad Learning Resources in the Literature course.,4,2024-12-31,Learning Resources,Neutral
+S31656,PSY249,Psychology,"The Psychology course had reasonable Learning Resources, but could be improved.",3,2025-01-29,Learning Resources,Neutral
+S37853,CHE780,Chemistry,The Assessment Methods in the Chemistry class exceeded my expectations.,5,2024-09-05,Assessment Methods,Positive
+S42224,BIO955,Biology,Neither good nor bad Assessment Methods in the Biology course.,4,2024-08-31,Assessment Methods,Neutral
+S46196,CHE893,Chemistry,The instructor's Assessment Methods approach in Chemistry was outstanding.,5,2024-10-20,Assessment Methods,Positive
+S47759,MAT129,Mathematics,"I think the Facilities in Mathematics was average, nothing special.",4,2024-10-07,Facilities,Neutral
+S89185,COM500,Computer Science,The Facilities in the Computer Science class exceeded my expectations.,4,2025-03-14,Facilities,Positive
+S53174,CHE372,Chemistry,I really enjoyed the Chemistry course. The Course Content was excellent.,5,2024-06-10,Course Content,Positive
+S11261,CHE313,Chemistry,The Learning Resources in Chemistry met the basic requirements.,3,2024-09-09,Learning Resources,Neutral
+S97473,LIT899,Literature,The Teaching Quality in the Literature class exceeded my expectations.,5,2024-09-14,Teaching Quality,Positive
+S11057,COM604,Computer Science,I really enjoyed the Computer Science course. The Learning Resources was excellent.,5,2024-06-12,Learning Resources,Positive
+S70094,LIT652,Literature,The instructor's Teaching Quality approach in Literature was outstanding.,5,2024-05-26,Teaching Quality,Positive
+S12582,PSY900,Psychology,I really enjoyed the Psychology course. The Learning Resources was excellent.,4,2024-08-10,Learning Resources,Positive
+S84442,HIS442,History,The Support Services in History met the basic requirements.,3,2024-05-20,Support Services,Neutral
+S20830,PSY996,Psychology,"Great Course Content in the Psychology course, very helpful for my learning.",4,2025-03-03,Course Content,Positive
+S26309,HIS783,History,"Great Course Content in the History course, very helpful for my learning.",4,2024-12-03,Course Content,Positive
+S73332,BIO695,Biology,The Course Content in the Biology class exceeded my expectations.,5,2025-03-28,Course Content,Positive
+S44689,HIS954,History,The Facilities in the History class exceeded my expectations.,4,2024-11-13,Facilities,Positive
+S79471,LIT149,Literature,The instructor's Teaching Quality approach in Literature was outstanding.,4,2024-07-14,Teaching Quality,Positive
+S17457,COM670,Computer Science,The instructor's Learning Resources approach in Computer Science was outstanding.,4,2024-12-29,Learning Resources,Positive
+S30398,CHE830,Chemistry,The Teaching Quality in Chemistry met the basic requirements.,3,2024-10-12,Teaching Quality,Neutral
+S30266,BIO535,Biology,"The Biology course had reasonable Facilities, but could be improved.",3,2024-09-22,Facilities,Neutral
+S43800,HIS860,History,"Great Teaching Quality in the History course, very helpful for my learning.",5,2025-02-08,Teaching Quality,Positive
+S82115,PHY883,Physics,The Course Content in the Physics class exceeded my expectations.,5,2025-01-08,Course Content,Positive
+S64831,COM226,Computer Science,Neither good nor bad Course Content in the Computer Science course.,3,2024-07-08,Course Content,Neutral
+S77958,CHE207,Chemistry,Neither good nor bad Course Content in the Chemistry course.,4,2024-08-11,Course Content,Neutral
+S92452,HIS837,History,I really enjoyed the History course. The Assessment Methods was excellent.,4,2024-10-14,Assessment Methods,Positive
+S90423,CHE335,Chemistry,Neither good nor bad Support Services in the Chemistry course.,4,2025-02-02,Support Services,Neutral
+S69863,LIT690,Literature,The Assessment Methods in the Literature course was adequate.,4,2024-08-20,Assessment Methods,Neutral
+S40498,MAT180,Mathematics,The Course Content in the Mathematics course was adequate.,3,2024-07-11,Course Content,Neutral
+S89727,MAT250,Mathematics,The Assessment Methods in the Mathematics class exceeded my expectations.,4,2024-07-27,Assessment Methods,Positive
+S93441,MAT514,Mathematics,I really enjoyed the Mathematics course. The Assessment Methods was excellent.,4,2025-04-05,Assessment Methods,Positive
+S77760,CHE348,Chemistry,I really enjoyed the Chemistry course. The Teaching Quality was excellent.,4,2025-03-21,Teaching Quality,Positive
+S59209,LIT293,Literature,I struggled with Literature due to inadequate Teaching Quality.,1,2024-12-03,Teaching Quality,Negative
+S52173,LIT652,Literature,The Teaching Quality in the Literature class exceeded my expectations.,4,2024-12-17,Teaching Quality,Positive
+S46705,CHE160,Chemistry,The Facilities in the Chemistry class exceeded my expectations.,4,2024-10-29,Facilities,Positive
+S34292,BIO803,Biology,I really enjoyed the Biology course. The Course Content was excellent.,4,2024-05-19,Course Content,Positive
+S14622,COM621,Computer Science,The Learning Resources in the Computer Science class exceeded my expectations.,4,2025-01-28,Learning Resources,Positive
+S79436,ECO499,Economics,The instructor's Learning Resources approach in Economics was outstanding.,5,2024-10-13,Learning Resources,Positive
+S18619,CHE351,Chemistry,I found the Course Content in Chemistry to be very well organized and useful.,5,2024-08-26,Course Content,Positive
+S83865,PSY129,Psychology,"Great Facilities in the Psychology course, very helpful for my learning.",5,2025-02-18,Facilities,Positive
+S85908,LIT723,Literature,"Great Course Content in the Literature course, very helpful for my learning.",5,2024-07-13,Course Content,Positive
+S54672,COM627,Computer Science,The instructor's Learning Resources approach in Computer Science was outstanding.,5,2024-07-19,Learning Resources,Positive
+S80350,BIO232,Biology,Neither good nor bad Teaching Quality in the Biology course.,3,2024-05-27,Teaching Quality,Neutral
+S89911,COM970,Computer Science,Neither good nor bad Assessment Methods in the Computer Science course.,3,2024-10-10,Assessment Methods,Neutral
+S96981,BIO529,Biology,I was disappointed with the Facilities in the Biology course.,3,2024-10-08,Facilities,Negative
+S11101,COM507,Computer Science,The Support Services in Computer Science needs significant improvement.,1,2024-07-14,Support Services,Negative
+S45287,MAT723,Mathematics,I really enjoyed the Mathematics course. The Course Content was excellent.,4,2024-09-25,Course Content,Positive
+S84741,MAT533,Mathematics,"Great Assessment Methods in the Mathematics course, very helpful for my learning.",5,2024-05-04,Assessment Methods,Positive
+S22443,LIT611,Literature,I found the Support Services in Literature to be very well organized and useful.,5,2025-01-15,Support Services,Positive
+S66241,PSY854,Psychology,I was disappointed with the Teaching Quality in the Psychology course.,1,2024-12-17,Teaching Quality,Negative
+S19629,BIO249,Biology,"Great Facilities in the Biology course, very helpful for my learning.",5,2024-09-19,Facilities,Positive
+S57814,ECO567,Economics,The instructor's Support Services approach in Economics was outstanding.,4,2024-05-20,Support Services,Positive
+S16276,ECO291,Economics,The Support Services in the Economics class exceeded my expectations.,5,2024-09-17,Support Services,Positive
+S40442,MAT593,Mathematics,"Great Facilities in the Mathematics course, very helpful for my learning.",4,2025-02-07,Facilities,Positive
+S46768,MAT464,Mathematics,The instructor's Facilities approach in Mathematics was outstanding.,5,2024-05-29,Facilities,Positive
+S88856,HIS880,History,The Course Content in the History class exceeded my expectations.,4,2024-04-23,Course Content,Positive
+S38796,PHY167,Physics,The Learning Resources in Physics needs significant improvement.,1,2024-05-13,Learning Resources,Negative
+S59476,PHY415,Physics,The Assessment Methods in Physics met the basic requirements.,3,2024-06-16,Assessment Methods,Neutral
+S27629,CHE102,Chemistry,"Great Support Services in the Chemistry course, very helpful for my learning.",4,2025-03-26,Support Services,Positive
+S70501,ECO294,Economics,I really enjoyed the Economics course. The Support Services was excellent.,5,2024-06-24,Support Services,Positive
+S36145,COM890,Computer Science,"Great Learning Resources in the Computer Science course, very helpful for my learning.",5,2024-07-06,Learning Resources,Positive
+S73683,BIO847,Biology,"I think the Learning Resources in Biology was average, nothing special.",4,2024-09-11,Learning Resources,Neutral
+S62141,PHY239,Physics,The Teaching Quality in the Physics class exceeded my expectations.,5,2025-02-01,Teaching Quality,Positive
+S55493,ECO693,Economics,"I think the Support Services in Economics was average, nothing special.",4,2024-10-21,Support Services,Neutral
+S74190,PSY615,Psychology,The Teaching Quality in Psychology met the basic requirements.,3,2024-10-08,Teaching Quality,Neutral
+S70534,MAT112,Mathematics,I struggled with Mathematics due to inadequate Course Content.,3,2024-09-15,Course Content,Negative
+S60991,MAT816,Mathematics,The Facilities in Mathematics needs significant improvement.,1,2025-01-02,Facilities,Negative
+S73806,LIT262,Literature,I really enjoyed the Literature course. The Assessment Methods was excellent.,5,2024-07-10,Assessment Methods,Positive
+S65647,ECO103,Economics,I found the Facilities in Economics to be very well organized and useful.,4,2024-08-14,Facilities,Positive
+S54177,CHE974,Chemistry,I really enjoyed the Chemistry course. The Course Content was excellent.,5,2024-12-25,Course Content,Positive
+S84033,CHE431,Chemistry,The Assessment Methods in the Chemistry course was adequate.,4,2025-03-15,Assessment Methods,Neutral
+S88159,COM250,Computer Science,I really enjoyed the Computer Science course. The Assessment Methods was excellent.,5,2024-12-24,Assessment Methods,Positive
+S96765,PHY634,Physics,The Learning Resources in the Physics course was adequate.,4,2024-11-19,Learning Resources,Neutral
+S66581,MAT643,Mathematics,The Teaching Quality in the Mathematics class exceeded my expectations.,5,2025-04-07,Teaching Quality,Positive
+S19290,HIS892,History,The Learning Resources in History met the basic requirements.,4,2024-12-09,Learning Resources,Neutral
+S13709,ECO796,Economics,"I think the Facilities in Economics was average, nothing special.",4,2024-12-31,Facilities,Neutral
+S66868,LIT791,Literature,The Assessment Methods in the Literature class exceeded my expectations.,5,2024-09-23,Assessment Methods,Positive
+S20751,ECO279,Economics,I was disappointed with the Learning Resources in the Economics course.,1,2025-02-23,Learning Resources,Negative
+S43295,HIS813,History,I found the Learning Resources in History to be very well organized and useful.,5,2024-10-10,Learning Resources,Positive
+S68864,ECO278,Economics,"I think the Facilities in Economics was average, nothing special.",4,2025-01-05,Facilities,Neutral
+S17012,HIS317,History,Neither good nor bad Facilities in the History course.,4,2024-09-30,Facilities,Neutral
+S82158,BIO409,Biology,The Learning Resources in the Biology course was adequate.,4,2024-06-30,Learning Resources,Neutral
+S61369,HIS893,History,I was disappointed with the Learning Resources in the History course.,2,2024-10-03,Learning Resources,Negative
+S55684,CHE794,Chemistry,The Course Content in Chemistry met the basic requirements.,4,2025-04-04,Course Content,Neutral
+S94710,BIO949,Biology,The Facilities in Biology needs significant improvement.,1,2024-09-24,Facilities,Negative
+S40194,PSY720,Psychology,The Learning Resources in the Psychology course was adequate.,4,2024-11-17,Learning Resources,Neutral
+S44199,ECO590,Economics,The Learning Resources in the Economics class exceeded my expectations.,5,2024-07-20,Learning Resources,Positive
+S39902,PSY716,Psychology,I found the Assessment Methods in Psychology to be very well organized and useful.,5,2024-09-07,Assessment Methods,Positive
+S91672,PSY530,Psychology,I found the Assessment Methods in Psychology to be very well organized and useful.,4,2024-10-04,Assessment Methods,Positive
+S43764,ECO168,Economics,The Course Content in the Economics class exceeded my expectations.,4,2024-05-18,Course Content,Positive
+S11044,ECO994,Economics,The Course Content in the Economics class exceeded my expectations.,4,2025-01-14,Course Content,Positive
+S32052,CHE295,Chemistry,The Learning Resources in Chemistry needs significant improvement.,3,2025-01-26,Learning Resources,Negative
+S85830,MAT684,Mathematics,The instructor's Teaching Quality approach in Mathematics was outstanding.,5,2024-05-13,Teaching Quality,Positive
+S54998,CHE209,Chemistry,The Learning Resources in the Chemistry class exceeded my expectations.,4,2025-03-06,Learning Resources,Positive
+S63786,HIS713,History,The instructor's Facilities approach in History was outstanding.,4,2025-01-08,Facilities,Positive
+S59915,BIO824,Biology,Neither good nor bad Support Services in the Biology course.,4,2024-11-29,Support Services,Neutral
+S73110,CHE658,Chemistry,Poor Facilities made the Chemistry course difficult to follow.,3,2025-02-11,Facilities,Negative
+S82191,PSY362,Psychology,I was disappointed with the Teaching Quality in the Psychology course.,1,2025-01-06,Teaching Quality,Negative
+S17037,LIT863,Literature,Neither good nor bad Assessment Methods in the Literature course.,3,2025-02-13,Assessment Methods,Neutral
+S67710,BIO490,Biology,"Great Support Services in the Biology course, very helpful for my learning.",5,2024-09-10,Support Services,Positive
+S99056,MAT421,Mathematics,"Great Teaching Quality in the Mathematics course, very helpful for my learning.",4,2024-06-10,Teaching Quality,Positive
+S14098,ECO213,Economics,I found the Facilities in Economics to be very well organized and useful.,5,2025-03-07,Facilities,Positive
+S40165,LIT411,Literature,"Great Course Content in the Literature course, very helpful for my learning.",5,2024-12-25,Course Content,Positive
+S24907,CHE762,Chemistry,I struggled with Chemistry due to inadequate Course Content.,2,2025-02-06,Course Content,Negative
+S38668,CHE819,Chemistry,"Great Facilities in the Chemistry course, very helpful for my learning.",5,2024-08-04,Facilities,Positive
+S31852,PSY367,Psychology,"Great Learning Resources in the Psychology course, very helpful for my learning.",4,2025-03-04,Learning Resources,Positive
+S41660,PHY827,Physics,I really enjoyed the Physics course. The Assessment Methods was excellent.,5,2024-08-06,Assessment Methods,Positive
+S25349,HIS565,History,The Assessment Methods in the History class was below standard.,1,2024-05-31,Assessment Methods,Negative
+S36830,ECO834,Economics,I really enjoyed the Economics course. The Support Services was excellent.,5,2024-09-25,Support Services,Positive
+S20794,BIO597,Biology,"Great Course Content in the Biology course, very helpful for my learning.",5,2024-12-04,Course Content,Positive
+S52474,PHY690,Physics,The Course Content in the Physics class was below standard.,1,2024-11-24,Course Content,Negative
+S94691,MAT643,Mathematics,"I think the Assessment Methods in Mathematics was average, nothing special.",4,2024-11-11,Assessment Methods,Neutral
+S28459,PSY493,Psychology,The Assessment Methods in the Psychology course was adequate.,3,2024-04-29,Assessment Methods,Neutral
+S26902,MAT906,Mathematics,I really enjoyed the Mathematics course. The Course Content was excellent.,4,2024-07-19,Course Content,Positive
+S29098,LIT577,Literature,"I think the Assessment Methods in Literature was average, nothing special.",4,2024-08-24,Assessment Methods,Neutral
+S67951,COM201,Computer Science,"The Computer Science course had reasonable Facilities, but could be improved.",4,2024-09-03,Facilities,Neutral
+S41148,CHE129,Chemistry,The Assessment Methods in Chemistry met the basic requirements.,3,2025-03-25,Assessment Methods,Neutral
+S58025,HIS878,History,"Great Support Services in the History course, very helpful for my learning.",4,2025-01-09,Support Services,Positive
+S78112,COM199,Computer Science,The Teaching Quality in Computer Science met the basic requirements.,4,2024-05-09,Teaching Quality,Neutral
+S53992,HIS707,History,Neither good nor bad Assessment Methods in the History course.,3,2024-09-07,Assessment Methods,Neutral
+S26320,BIO730,Biology,"Great Course Content in the Biology course, very helpful for my learning.",4,2024-09-01,Course Content,Positive
+S47436,PSY637,Psychology,I really enjoyed the Psychology course. The Learning Resources was excellent.,5,2024-08-10,Learning Resources,Positive
+S56296,MAT353,Mathematics,The instructor's Facilities approach in Mathematics was outstanding.,5,2025-02-10,Facilities,Positive
+S88521,CHE690,Chemistry,"The Chemistry course had reasonable Assessment Methods, but could be improved.",4,2024-09-13,Assessment Methods,Neutral
+S55727,BIO922,Biology,I really enjoyed the Biology course. The Assessment Methods was excellent.,4,2024-07-22,Assessment Methods,Positive
+S91099,ECO363,Economics,I really enjoyed the Economics course. The Teaching Quality was excellent.,5,2024-04-18,Teaching Quality,Positive
+S54000,PSY357,Psychology,"Great Facilities in the Psychology course, very helpful for my learning.",4,2024-05-25,Facilities,Positive
+S72693,CHE494,Chemistry,"Great Teaching Quality in the Chemistry course, very helpful for my learning.",5,2025-04-07,Teaching Quality,Positive
+S23698,PHY260,Physics,"Great Course Content in the Physics course, very helpful for my learning.",4,2024-06-27,Course Content,Positive
+S63658,BIO639,Biology,The instructor's Facilities approach in Biology was outstanding.,4,2024-07-02,Facilities,Positive
+S26376,ECO107,Economics,The instructor's Teaching Quality approach in Economics was outstanding.,4,2024-06-25,Teaching Quality,Positive
+S55844,LIT173,Literature,"The Literature course had reasonable Assessment Methods, but could be improved.",4,2024-07-06,Assessment Methods,Neutral
+S10274,BIO757,Biology,I found the Support Services in Biology to be very well organized and useful.,4,2024-11-09,Support Services,Positive
+S79860,COM974,Computer Science,The Course Content in the Computer Science class exceeded my expectations.,5,2024-12-28,Course Content,Positive
+S59612,BIO323,Biology,The Support Services in Biology needs significant improvement.,1,2024-09-29,Support Services,Negative
+S68037,CHE284,Chemistry,"Great Support Services in the Chemistry course, very helpful for my learning.",5,2024-06-04,Support Services,Positive
+S71269,ECO310,Economics,The Assessment Methods in Economics met the basic requirements.,3,2024-08-02,Assessment Methods,Neutral
+S11278,MAT349,Mathematics,I found the Assessment Methods in Mathematics to be very well organized and useful.,5,2024-05-19,Assessment Methods,Positive
+S54569,CHE849,Chemistry,I really enjoyed the Chemistry course. The Support Services was excellent.,5,2025-01-14,Support Services,Positive
+S32301,CHE517,Chemistry,"I think the Course Content in Chemistry was average, nothing special.",3,2024-12-09,Course Content,Neutral
+S51954,ECO673,Economics,The Assessment Methods in the Economics class exceeded my expectations.,4,2025-01-20,Assessment Methods,Positive
+S34947,PSY457,Psychology,I was disappointed with the Learning Resources in the Psychology course.,3,2024-11-14,Learning Resources,Negative
+S78244,BIO335,Biology,I was disappointed with the Teaching Quality in the Biology course.,2,2024-12-16,Teaching Quality,Negative
+S21356,CHE511,Chemistry,I really enjoyed the Chemistry course. The Course Content was excellent.,5,2024-10-15,Course Content,Positive
+S59858,CHE552,Chemistry,I really enjoyed the Chemistry course. The Course Content was excellent.,4,2025-03-03,Course Content,Positive
+S96915,MAT448,Mathematics,I really enjoyed the Mathematics course. The Facilities was excellent.,4,2024-09-20,Facilities,Positive
+S19561,ECO489,Economics,"Great Facilities in the Economics course, very helpful for my learning.",5,2024-12-18,Facilities,Positive
+S91661,HIS989,History,The instructor's Support Services approach in History was outstanding.,5,2024-04-12,Support Services,Positive
+S36302,PHY862,Physics,I found the Learning Resources in Physics to be very well organized and useful.,5,2025-02-09,Learning Resources,Positive
+S93685,HIS654,History,The instructor's Assessment Methods approach in History was outstanding.,5,2025-01-15,Assessment Methods,Positive
+S56101,HIS152,History,The Course Content in the History class exceeded my expectations.,5,2025-04-11,Course Content,Positive
+S27529,PHY673,Physics,I really enjoyed the Physics course. The Support Services was excellent.,4,2025-03-06,Support Services,Positive
+S92014,MAT669,Mathematics,I found the Learning Resources in Mathematics to be very well organized and useful.,5,2024-10-23,Learning Resources,Positive
+S12354,COM724,Computer Science,"I think the Learning Resources in Computer Science was average, nothing special.",4,2024-06-14,Learning Resources,Neutral
+S34364,BIO857,Biology,"Great Teaching Quality in the Biology course, very helpful for my learning.",5,2025-01-07,Teaching Quality,Positive
+S72099,MAT587,Mathematics,"I think the Teaching Quality in Mathematics was average, nothing special.",3,2024-07-10,Teaching Quality,Neutral
+S65135,PSY853,Psychology,The Learning Resources in the Psychology class exceeded my expectations.,4,2024-08-03,Learning Resources,Positive
+S15841,PHY756,Physics,The instructor's Support Services approach in Physics was outstanding.,5,2024-09-26,Support Services,Positive
+S56235,PHY147,Physics,The Support Services in the Physics class exceeded my expectations.,4,2024-05-26,Support Services,Positive
+S80392,COM155,Computer Science,I really enjoyed the Computer Science course. The Support Services was excellent.,4,2024-08-16,Support Services,Positive
+S37216,CHE436,Chemistry,Neither good nor bad Assessment Methods in the Chemistry course.,3,2024-06-14,Assessment Methods,Neutral
+S80000,BIO260,Biology,"Great Course Content in the Biology course, very helpful for my learning.",4,2024-08-22,Course Content,Positive
+S25089,MAT439,Mathematics,"Great Course Content in the Mathematics course, very helpful for my learning.",4,2024-05-14,Course Content,Positive
+S20526,COM835,Computer Science,The Support Services in the Computer Science class exceeded my expectations.,5,2025-02-11,Support Services,Positive
+S13347,ECO734,Economics,The instructor's Teaching Quality approach in Economics was outstanding.,5,2024-08-17,Teaching Quality,Positive
+S11207,ECO250,Economics,"I think the Course Content in Economics was average, nothing special.",4,2025-01-01,Course Content,Neutral
+S92982,PHY966,Physics,"Great Course Content in the Physics course, very helpful for my learning.",5,2024-06-18,Course Content,Positive
+S46250,BIO814,Biology,I found the Assessment Methods in Biology to be very well organized and useful.,5,2024-07-21,Assessment Methods,Positive
+S77499,PHY248,Physics,I was disappointed with the Teaching Quality in the Physics course.,1,2024-08-10,Teaching Quality,Negative
+S32587,CHE368,Chemistry,The Course Content in the Chemistry course was adequate.,4,2024-04-18,Course Content,Neutral
+S95568,MAT776,Mathematics,I found the Support Services in Mathematics to be very well organized and useful.,4,2025-03-29,Support Services,Positive
+S71528,BIO833,Biology,The Course Content in the Biology class exceeded my expectations.,5,2024-10-15,Course Content,Positive
+S63309,ECO445,Economics,"Great Teaching Quality in the Economics course, very helpful for my learning.",5,2024-11-17,Teaching Quality,Positive
+S20995,BIO420,Biology,I really enjoyed the Biology course. The Learning Resources was excellent.,4,2024-11-05,Learning Resources,Positive
+S68384,HIS754,History,"The History course had reasonable Teaching Quality, but could be improved.",3,2024-05-12,Teaching Quality,Neutral
+S64820,CHE944,Chemistry,I really enjoyed the Chemistry course. The Learning Resources was excellent.,5,2025-01-12,Learning Resources,Positive
+S69083,COM570,Computer Science,I found the Teaching Quality in Computer Science to be very well organized and useful.,4,2024-10-04,Teaching Quality,Positive
+S53533,PHY160,Physics,The Learning Resources in Physics met the basic requirements.,4,2025-01-04,Learning Resources,Neutral
+S76774,BIO764,Biology,"Great Course Content in the Biology course, very helpful for my learning.",5,2024-04-19,Course Content,Positive
+S64147,BIO895,Biology,"Great Course Content in the Biology course, very helpful for my learning.",5,2025-01-04,Course Content,Positive
+S98025,COM755,Computer Science,Poor Assessment Methods made the Computer Science course difficult to follow.,2,2024-06-06,Assessment Methods,Negative
+S42889,COM482,Computer Science,The instructor's Support Services approach in Computer Science was outstanding.,4,2024-08-10,Support Services,Positive
+S80631,HIS268,History,I struggled with History due to inadequate Course Content.,2,2025-01-12,Course Content,Negative
+S71891,PSY547,Psychology,Poor Teaching Quality made the Psychology course difficult to follow.,3,2024-04-17,Teaching Quality,Negative
+S89611,PSY604,Psychology,"The Psychology course had reasonable Course Content, but could be improved.",3,2025-01-18,Course Content,Neutral
+S76560,ECO227,Economics,The instructor's Course Content approach in Economics was outstanding.,5,2024-06-03,Course Content,Positive
+S67109,BIO371,Biology,I really enjoyed the Biology course. The Facilities was excellent.,5,2024-07-18,Facilities,Positive
+S64055,HIS974,History,"I think the Facilities in History was average, nothing special.",3,2024-05-29,Facilities,Neutral
+S66092,COM307,Computer Science,The Learning Resources in the Computer Science class was below standard.,3,2024-08-27,Learning Resources,Negative
+S16132,COM950,Computer Science,I found the Support Services in Computer Science to be very well organized and useful.,5,2024-11-13,Support Services,Positive
+S44546,PSY981,Psychology,The instructor's Learning Resources approach in Psychology was outstanding.,5,2024-09-30,Learning Resources,Positive
+S39640,PHY572,Physics,"Great Course Content in the Physics course, very helpful for my learning.",4,2025-01-19,Course Content,Positive
+S29590,BIO332,Biology,Neither good nor bad Teaching Quality in the Biology course.,3,2024-12-25,Teaching Quality,Neutral
+S52325,BIO789,Biology,I really enjoyed the Biology course. The Support Services was excellent.,5,2025-03-03,Support Services,Positive
+S78298,COM906,Computer Science,I really enjoyed the Computer Science course. The Support Services was excellent.,4,2025-02-08,Support Services,Positive
+S25702,ECO575,Economics,The instructor's Support Services approach in Economics was outstanding.,5,2024-11-29,Support Services,Positive
+S14890,COM314,Computer Science,I really enjoyed the Computer Science course. The Support Services was excellent.,5,2025-02-14,Support Services,Positive
+S50145,BIO555,Biology,The Support Services in the Biology course was adequate.,4,2024-05-29,Support Services,Neutral
+S87352,PSY162,Psychology,I found the Facilities in Psychology to be very well organized and useful.,5,2025-01-21,Facilities,Positive
+S58468,LIT193,Literature,The instructor's Facilities approach in Literature was outstanding.,5,2024-08-21,Facilities,Positive
+S49320,COM930,Computer Science,The instructor's Teaching Quality approach in Computer Science was outstanding.,5,2024-06-28,Teaching Quality,Positive
+S49683,MAT361,Mathematics,"Great Assessment Methods in the Mathematics course, very helpful for my learning.",5,2025-02-21,Assessment Methods,Positive
+S11537,PSY907,Psychology,I found the Facilities in Psychology to be very well organized and useful.,4,2025-03-06,Facilities,Positive
+S41376,MAT518,Mathematics,I found the Teaching Quality in Mathematics to be very well organized and useful.,4,2025-01-20,Teaching Quality,Positive
+S11582,LIT987,Literature,"Great Learning Resources in the Literature course, very helpful for my learning.",5,2024-09-08,Learning Resources,Positive
+S46614,HIS468,History,Neither good nor bad Facilities in the History course.,4,2024-11-09,Facilities,Neutral
+S62805,MAT102,Mathematics,The Teaching Quality in the Mathematics class exceeded my expectations.,5,2024-11-05,Teaching Quality,Positive
+S30095,ECO573,Economics,The Course Content in the Economics class exceeded my expectations.,5,2024-12-10,Course Content,Positive
+S82676,LIT945,Literature,I really enjoyed the Literature course. The Learning Resources was excellent.,5,2024-11-29,Learning Resources,Positive
+S98631,HIS422,History,The Teaching Quality in History needs significant improvement.,2,2025-01-06,Teaching Quality,Negative
+S68365,LIT354,Literature,I found the Teaching Quality in Literature to be very well organized and useful.,5,2024-07-20,Teaching Quality,Positive
+S92293,MAT134,Mathematics,The Assessment Methods in the Mathematics class exceeded my expectations.,5,2024-06-23,Assessment Methods,Positive
+S62436,PHY590,Physics,I really enjoyed the Physics course. The Support Services was excellent.,5,2024-10-29,Support Services,Positive
+S93455,CHE420,Chemistry,The Facilities in the Chemistry class exceeded my expectations.,4,2025-03-05,Facilities,Positive
+S34274,COM303,Computer Science,I found the Course Content in Computer Science to be very well organized and useful.,4,2025-04-05,Course Content,Positive
+S48428,HIS605,History,The Assessment Methods in History needs significant improvement.,3,2024-12-08,Assessment Methods,Negative
+S50104,PHY689,Physics,The Assessment Methods in the Physics class exceeded my expectations.,4,2024-10-03,Assessment Methods,Positive
+S69762,HIS752,History,I was disappointed with the Support Services in the History course.,1,2024-05-28,Support Services,Negative
+S69133,BIO475,Biology,The Facilities in Biology met the basic requirements.,4,2024-09-18,Facilities,Neutral
+S76302,LIT102,Literature,I found the Facilities in Literature to be very well organized and useful.,5,2025-02-10,Facilities,Positive
+S29887,LIT355,Literature,I struggled with Literature due to inadequate Assessment Methods.,2,2024-12-20,Assessment Methods,Negative
+S52059,LIT469,Literature,I found the Support Services in Literature to be very well organized and useful.,5,2025-02-06,Support Services,Positive
+S92731,MAT515,Mathematics,The instructor's Assessment Methods approach in Mathematics was outstanding.,4,2024-07-16,Assessment Methods,Positive
+S70510,PHY179,Physics,The instructor's Facilities approach in Physics was outstanding.,4,2025-02-03,Facilities,Positive
+S87601,CHE372,Chemistry,The Facilities in the Chemistry class was below standard.,1,2024-11-20,Facilities,Negative
+S27761,HIS165,History,"Great Assessment Methods in the History course, very helpful for my learning.",4,2025-03-13,Assessment Methods,Positive
+S35057,LIT482,Literature,The Support Services in the Literature class exceeded my expectations.,5,2024-12-10,Support Services,Positive
+S24093,PSY983,Psychology,"The Psychology course had reasonable Facilities, but could be improved.",4,2024-06-16,Facilities,Neutral
+S98367,PSY355,Psychology,The instructor's Support Services approach in Psychology was outstanding.,5,2024-04-15,Support Services,Positive
+S91423,HIS160,History,The Support Services in the History class exceeded my expectations.,5,2024-07-03,Support Services,Positive
+S81537,COM235,Computer Science,"Great Facilities in the Computer Science course, very helpful for my learning.",4,2024-07-25,Facilities,Positive
+S83957,PSY654,Psychology,I found the Facilities in Psychology to be very well organized and useful.,4,2024-06-30,Facilities,Positive
+S81001,LIT274,Literature,I really enjoyed the Literature course. The Learning Resources was excellent.,4,2024-11-10,Learning Resources,Positive
+S78408,MAT456,Mathematics,The instructor's Assessment Methods approach in Mathematics was outstanding.,4,2025-01-20,Assessment Methods,Positive
+S96263,CHE104,Chemistry,"I think the Facilities in Chemistry was average, nothing special.",4,2025-01-19,Facilities,Neutral
+S75781,BIO158,Biology,"Great Facilities in the Biology course, very helpful for my learning.",4,2025-04-10,Facilities,Positive
+S86247,PHY328,Physics,The instructor's Teaching Quality approach in Physics was outstanding.,4,2024-07-26,Teaching Quality,Positive
+S34864,BIO464,Biology,I found the Support Services in Biology to be very well organized and useful.,4,2025-03-11,Support Services,Positive
+S93446,BIO835,Biology,The instructor's Course Content approach in Biology was outstanding.,4,2024-04-12,Course Content,Positive
+S17413,CHE428,Chemistry,The Support Services in Chemistry met the basic requirements.,3,2024-04-30,Support Services,Neutral
+S79875,CHE464,Chemistry,The instructor's Learning Resources approach in Chemistry was outstanding.,5,2024-11-06,Learning Resources,Positive
+S39575,PHY832,Physics,I really enjoyed the Physics course. The Learning Resources was excellent.,4,2024-10-26,Learning Resources,Positive
+S13104,PSY703,Psychology,The instructor's Support Services approach in Psychology was outstanding.,4,2024-05-08,Support Services,Positive
+S80278,BIO259,Biology,Neither good nor bad Teaching Quality in the Biology course.,3,2024-06-02,Teaching Quality,Neutral
+S52128,PHY731,Physics,I really enjoyed the Physics course. The Learning Resources was excellent.,5,2024-12-27,Learning Resources,Positive
+S33466,HIS865,History,I found the Facilities in History to be very well organized and useful.,4,2024-04-16,Facilities,Positive
+S83226,CHE384,Chemistry,Neither good nor bad Course Content in the Chemistry course.,3,2025-01-06,Course Content,Neutral
+S45543,HIS835,History,"Great Learning Resources in the History course, very helpful for my learning.",4,2024-06-16,Learning Resources,Positive
+S43128,PSY387,Psychology,I really enjoyed the Psychology course. The Assessment Methods was excellent.,4,2024-06-02,Assessment Methods,Positive
+S86788,COM104,Computer Science,I really enjoyed the Computer Science course. The Teaching Quality was excellent.,4,2024-11-22,Teaching Quality,Positive
+S81964,LIT794,Literature,I found the Assessment Methods in Literature to be very well organized and useful.,5,2025-02-14,Assessment Methods,Positive
+S99139,ECO876,Economics,The Assessment Methods in Economics met the basic requirements.,4,2025-03-15,Assessment Methods,Neutral
+S48968,BIO151,Biology,The Course Content in Biology met the basic requirements.,4,2024-09-29,Course Content,Neutral
+S73331,LIT980,Literature,I really enjoyed the Literature course. The Learning Resources was excellent.,4,2024-09-17,Learning Resources,Positive
+S95556,ECO400,Economics,I really enjoyed the Economics course. The Facilities was excellent.,5,2024-06-19,Facilities,Positive
+S99762,MAT335,Mathematics,I really enjoyed the Mathematics course. The Assessment Methods was excellent.,4,2025-03-05,Assessment Methods,Positive
+S19097,ECO547,Economics,The Learning Resources in the Economics course was adequate.,3,2024-04-29,Learning Resources,Neutral
+S96368,MAT721,Mathematics,I struggled with Mathematics due to inadequate Teaching Quality.,2,2025-03-23,Teaching Quality,Negative
+S23454,LIT191,Literature,The Teaching Quality in the Literature class exceeded my expectations.,5,2025-01-30,Teaching Quality,Positive
+S67663,HIS572,History,"Great Teaching Quality in the History course, very helpful for my learning.",5,2025-02-04,Teaching Quality,Positive
+S90313,BIO918,Biology,The Learning Resources in the Biology class was below standard.,2,2024-08-10,Learning Resources,Negative
+S56676,MAT736,Mathematics,The Course Content in the Mathematics course was adequate.,3,2024-11-04,Course Content,Neutral
+S40153,PSY488,Psychology,The Support Services in the Psychology course was adequate.,3,2024-08-13,Support Services,Neutral
+S17550,COM839,Computer Science,I found the Assessment Methods in Computer Science to be very well organized and useful.,5,2024-09-02,Assessment Methods,Positive
+S15837,HIS645,History,The Learning Resources in History met the basic requirements.,4,2024-12-22,Learning Resources,Neutral
+S58417,HIS787,History,The instructor's Learning Resources approach in History was outstanding.,5,2024-05-17,Learning Resources,Positive
+S43359,ECO108,Economics,The Support Services in the Economics course was adequate.,4,2024-10-12,Support Services,Neutral
+S22047,COM237,Computer Science,"I think the Learning Resources in Computer Science was average, nothing special.",4,2024-07-24,Learning Resources,Neutral
+S19763,MAT718,Mathematics,The instructor's Teaching Quality approach in Mathematics was outstanding.,4,2025-01-23,Teaching Quality,Positive
+S71383,MAT231,Mathematics,"Great Facilities in the Mathematics course, very helpful for my learning.",4,2024-05-29,Facilities,Positive
+S96703,MAT317,Mathematics,I struggled with Mathematics due to inadequate Support Services.,1,2025-03-03,Support Services,Negative
+S34039,CHE653,Chemistry,I really enjoyed the Chemistry course. The Facilities was excellent.,5,2024-11-06,Facilities,Positive
+S69035,BIO260,Biology,The Assessment Methods in the Biology class was below standard.,3,2024-06-05,Assessment Methods,Negative
+S68249,LIT283,Literature,"I think the Teaching Quality in Literature was average, nothing special.",4,2024-06-30,Teaching Quality,Neutral
+S71642,PSY951,Psychology,I really enjoyed the Psychology course. The Facilities was excellent.,5,2024-08-24,Facilities,Positive
+S23994,MAT173,Mathematics,"The Mathematics course had reasonable Teaching Quality, but could be improved.",4,2024-12-24,Teaching Quality,Neutral
+S81379,PSY194,Psychology,I was disappointed with the Learning Resources in the Psychology course.,3,2024-10-15,Learning Resources,Negative
+S95595,COM222,Computer Science,The instructor's Teaching Quality approach in Computer Science was outstanding.,4,2025-03-14,Teaching Quality,Positive
+S74063,PHY926,Physics,The instructor's Teaching Quality approach in Physics was outstanding.,5,2025-02-01,Teaching Quality,Positive
+S26356,BIO253,Biology,The Teaching Quality in the Biology class exceeded my expectations.,4,2024-08-03,Teaching Quality,Positive
+S52797,ECO828,Economics,The Facilities in the Economics class was below standard.,1,2024-04-12,Facilities,Negative
+S89023,BIO494,Biology,I struggled with Biology due to inadequate Assessment Methods.,1,2024-12-28,Assessment Methods,Negative
+S25492,CHE964,Chemistry,The instructor's Support Services approach in Chemistry was outstanding.,4,2024-04-21,Support Services,Positive
+S59638,COM600,Computer Science,The Facilities in Computer Science met the basic requirements.,3,2024-06-09,Facilities,Neutral
+S91647,MAT753,Mathematics,I found the Learning Resources in Mathematics to be very well organized and useful.,5,2024-05-24,Learning Resources,Positive
+S92658,PHY736,Physics,"I think the Course Content in Physics was average, nothing special.",3,2025-03-27,Course Content,Neutral
+S24115,LIT890,Literature,"Great Assessment Methods in the Literature course, very helpful for my learning.",5,2024-06-23,Assessment Methods,Positive
+S42475,MAT263,Mathematics,"Great Support Services in the Mathematics course, very helpful for my learning.",4,2024-12-11,Support Services,Positive
+S89203,HIS694,History,I found the Support Services in History to be very well organized and useful.,5,2024-08-21,Support Services,Positive
+S39536,COM174,Computer Science,I found the Assessment Methods in Computer Science to be very well organized and useful.,5,2024-06-20,Assessment Methods,Positive
+S51222,PSY721,Psychology,The Teaching Quality in the Psychology course was adequate.,3,2024-08-19,Teaching Quality,Neutral
+S66582,HIS331,History,The Course Content in the History class exceeded my expectations.,4,2024-09-23,Course Content,Positive
+S55928,LIT104,Literature,"I think the Course Content in Literature was average, nothing special.",4,2025-03-01,Course Content,Neutral
+S15714,HIS660,History,I really enjoyed the History course. The Teaching Quality was excellent.,5,2024-08-22,Teaching Quality,Positive
+S21881,HIS849,History,The Assessment Methods in the History class exceeded my expectations.,4,2024-04-29,Assessment Methods,Positive
+S14732,PSY345,Psychology,The Support Services in the Psychology class was below standard.,1,2025-03-03,Support Services,Negative
+S68656,PSY225,Psychology,"The Psychology course had reasonable Learning Resources, but could be improved.",4,2024-04-30,Learning Resources,Neutral
+S70451,COM126,Computer Science,I found the Support Services in Computer Science to be very well organized and useful.,5,2025-03-10,Support Services,Positive
+S49934,BIO730,Biology,The Assessment Methods in the Biology class exceeded my expectations.,4,2024-07-05,Assessment Methods,Positive
+S46401,LIT763,Literature,The Facilities in Literature needs significant improvement.,2,2025-01-28,Facilities,Negative
+S26632,PSY676,Psychology,The Teaching Quality in Psychology met the basic requirements.,3,2025-01-04,Teaching Quality,Neutral
+S64457,BIO529,Biology,The instructor's Support Services approach in Biology was outstanding.,4,2024-11-02,Support Services,Positive
+S78677,PHY429,Physics,The Teaching Quality in the Physics class exceeded my expectations.,4,2024-11-08,Teaching Quality,Positive
+S33940,HIS176,History,The Course Content in the History class exceeded my expectations.,5,2024-12-13,Course Content,Positive
+S53364,ECO227,Economics,The Facilities in Economics needs significant improvement.,3,2025-01-28,Facilities,Negative
+S61450,PSY433,Psychology,The instructor's Course Content approach in Psychology was outstanding.,4,2025-03-06,Course Content,Positive
+S82601,MAT542,Mathematics,The instructor's Assessment Methods approach in Mathematics was outstanding.,4,2024-04-17,Assessment Methods,Positive
+S61765,MAT884,Mathematics,The instructor's Assessment Methods approach in Mathematics was outstanding.,5,2025-01-14,Assessment Methods,Positive
+S84562,LIT850,Literature,I really enjoyed the Literature course. The Assessment Methods was excellent.,4,2024-05-22,Assessment Methods,Positive
+S18847,HIS678,History,I found the Course Content in History to be very well organized and useful.,4,2024-05-24,Course Content,Positive
+S60926,PSY554,Psychology,I really enjoyed the Psychology course. The Learning Resources was excellent.,4,2024-08-28,Learning Resources,Positive
+S99425,ECO179,Economics,"I think the Learning Resources in Economics was average, nothing special.",3,2024-06-28,Learning Resources,Neutral
+S45380,HIS744,History,The instructor's Facilities approach in History was outstanding.,5,2024-06-13,Facilities,Positive
+S71914,PHY998,Physics,I found the Facilities in Physics to be very well organized and useful.,5,2025-01-22,Facilities,Positive
+S47597,ECO958,Economics,The Support Services in the Economics course was adequate.,4,2025-02-01,Support Services,Neutral
+S38881,LIT879,Literature,"I think the Facilities in Literature was average, nothing special.",3,2024-12-13,Facilities,Neutral
+S59130,HIS984,History,"Great Teaching Quality in the History course, very helpful for my learning.",4,2024-11-10,Teaching Quality,Positive
+S14588,ECO874,Economics,I found the Facilities in Economics to be very well organized and useful.,4,2024-08-22,Facilities,Positive
+S64939,PHY156,Physics,I really enjoyed the Physics course. The Assessment Methods was excellent.,5,2024-12-15,Assessment Methods,Positive
+S78233,LIT147,Literature,The Assessment Methods in Literature met the basic requirements.,4,2024-11-12,Assessment Methods,Neutral
+S63426,ECO919,Economics,"Great Course Content in the Economics course, very helpful for my learning.",5,2024-11-30,Course Content,Positive
+S63993,PSY780,Psychology,"Great Assessment Methods in the Psychology course, very helpful for my learning.",5,2024-05-21,Assessment Methods,Positive
+S59812,PHY190,Physics,The instructor's Support Services approach in Physics was outstanding.,5,2024-04-14,Support Services,Positive
+S73650,MAT776,Mathematics,I struggled with Mathematics due to inadequate Assessment Methods.,3,2025-03-09,Assessment Methods,Negative
+S64368,LIT197,Literature,The Teaching Quality in the Literature class was below standard.,2,2025-01-02,Teaching Quality,Negative
+S98315,ECO660,Economics,"The Economics course had reasonable Assessment Methods, but could be improved.",4,2024-11-07,Assessment Methods,Neutral
+S55690,MAT695,Mathematics,"The Mathematics course had reasonable Support Services, but could be improved.",3,2025-03-06,Support Services,Neutral
+S17779,PHY755,Physics,"I think the Teaching Quality in Physics was average, nothing special.",3,2024-05-06,Teaching Quality,Neutral
+S69022,ECO839,Economics,The Facilities in Economics met the basic requirements.,4,2025-01-28,Facilities,Neutral
+S92305,HIS161,History,The Assessment Methods in the History course was adequate.,4,2024-09-13,Assessment Methods,Neutral
+S14042,HIS175,History,The Teaching Quality in the History course was adequate.,4,2024-06-06,Teaching Quality,Neutral
+S68763,PSY766,Psychology,I really enjoyed the Psychology course. The Teaching Quality was excellent.,4,2024-08-27,Teaching Quality,Positive
+S61526,CHE323,Chemistry,I found the Teaching Quality in Chemistry to be very well organized and useful.,5,2024-12-07,Teaching Quality,Positive
+S32960,HIS508,History,I really enjoyed the History course. The Support Services was excellent.,4,2025-03-20,Support Services,Positive
+S17924,MAT704,Mathematics,"Great Support Services in the Mathematics course, very helpful for my learning.",5,2024-05-15,Support Services,Positive
+S80445,HIS809,History,The Assessment Methods in History needs significant improvement.,3,2025-02-04,Assessment Methods,Negative
+S49361,HIS711,History,I really enjoyed the History course. The Teaching Quality was excellent.,5,2025-03-16,Teaching Quality,Positive
+S78114,MAT721,Mathematics,I really enjoyed the Mathematics course. The Assessment Methods was excellent.,4,2025-02-20,Assessment Methods,Positive
+S10896,PHY413,Physics,The Teaching Quality in the Physics course was adequate.,4,2024-11-01,Teaching Quality,Neutral
+S38658,PSY890,Psychology,The Teaching Quality in the Psychology class exceeded my expectations.,4,2024-05-29,Teaching Quality,Positive
+S50665,BIO753,Biology,The instructor's Facilities approach in Biology was outstanding.,5,2025-03-14,Facilities,Positive
+S14825,BIO103,Biology,The instructor's Assessment Methods approach in Biology was outstanding.,5,2024-07-27,Assessment Methods,Positive
+S29828,MAT920,Mathematics,I really enjoyed the Mathematics course. The Teaching Quality was excellent.,4,2024-06-23,Teaching Quality,Positive
+S33568,HIS977,History,The instructor's Support Services approach in History was outstanding.,4,2025-01-07,Support Services,Positive
+S72893,ECO157,Economics,"Great Course Content in the Economics course, very helpful for my learning.",5,2024-09-18,Course Content,Positive
+S36134,BIO749,Biology,The instructor's Learning Resources approach in Biology was outstanding.,4,2024-12-08,Learning Resources,Positive
+S40457,PSY972,Psychology,I really enjoyed the Psychology course. The Learning Resources was excellent.,4,2025-02-09,Learning Resources,Positive
+S24954,CHE368,Chemistry,The instructor's Support Services approach in Chemistry was outstanding.,5,2025-02-06,Support Services,Positive
+S43434,PSY404,Psychology,"Great Facilities in the Psychology course, very helpful for my learning.",4,2024-04-24,Facilities,Positive
+S30379,CHE914,Chemistry,The Teaching Quality in the Chemistry class exceeded my expectations.,4,2024-07-17,Teaching Quality,Positive
+S31642,CHE367,Chemistry,"The Chemistry course had reasonable Assessment Methods, but could be improved.",4,2024-06-08,Assessment Methods,Neutral
+S32722,PSY914,Psychology,Neither good nor bad Assessment Methods in the Psychology course.,4,2025-02-19,Assessment Methods,Neutral
+S53622,COM144,Computer Science,The Learning Resources in the Computer Science class exceeded my expectations.,4,2025-01-05,Learning Resources,Positive
+S98088,HIS550,History,The Assessment Methods in History met the basic requirements.,3,2024-07-31,Assessment Methods,Neutral
+S59134,ECO662,Economics,"Great Teaching Quality in the Economics course, very helpful for my learning.",4,2024-08-15,Teaching Quality,Positive
+S12278,LIT489,Literature,"The Literature course had reasonable Learning Resources, but could be improved.",4,2024-07-31,Learning Resources,Neutral
+S47983,COM240,Computer Science,The Support Services in the Computer Science class was below standard.,2,2024-06-23,Support Services,Negative
+S52011,COM119,Computer Science,Neither good nor bad Course Content in the Computer Science course.,3,2024-10-22,Course Content,Neutral
+S27464,BIO200,Biology,"Great Support Services in the Biology course, very helpful for my learning.",5,2024-12-16,Support Services,Positive
+S44963,CHE810,Chemistry,I was disappointed with the Course Content in the Chemistry course.,1,2024-10-25,Course Content,Negative
+S36272,CHE619,Chemistry,"Great Support Services in the Chemistry course, very helpful for my learning.",4,2024-08-28,Support Services,Positive
+S44132,ECO861,Economics,I really enjoyed the Economics course. The Teaching Quality was excellent.,5,2024-07-25,Teaching Quality,Positive
+S96058,PHY769,Physics,I really enjoyed the Physics course. The Assessment Methods was excellent.,5,2025-03-03,Assessment Methods,Positive
+S41006,COM308,Computer Science,The instructor's Support Services approach in Computer Science was outstanding.,5,2024-09-20,Support Services,Positive
+S29202,PSY697,Psychology,The Course Content in Psychology needs significant improvement.,1,2024-04-23,Course Content,Negative
+S30117,CHE760,Chemistry,"Great Support Services in the Chemistry course, very helpful for my learning.",4,2025-04-09,Support Services,Positive
+S10382,CHE717,Chemistry,"Great Course Content in the Chemistry course, very helpful for my learning.",5,2024-07-10,Course Content,Positive
+S64114,ECO110,Economics,Neither good nor bad Learning Resources in the Economics course.,3,2024-06-05,Learning Resources,Neutral
+S89698,ECO180,Economics,I found the Learning Resources in Economics to be very well organized and useful.,4,2025-02-17,Learning Resources,Positive
+S53827,PSY904,Psychology,I really enjoyed the Psychology course. The Support Services was excellent.,4,2024-11-24,Support Services,Positive
+S26193,MAT206,Mathematics,"Great Assessment Methods in the Mathematics course, very helpful for my learning.",5,2024-10-06,Assessment Methods,Positive
+S24554,CHE639,Chemistry,I struggled with Chemistry due to inadequate Assessment Methods.,2,2024-07-22,Assessment Methods,Negative
+S21829,PHY696,Physics,The Learning Resources in the Physics class exceeded my expectations.,5,2024-09-05,Learning Resources,Positive
+S71317,MAT883,Mathematics,The Assessment Methods in Mathematics met the basic requirements.,4,2025-04-03,Assessment Methods,Neutral
+S28478,COM351,Computer Science,"The Computer Science course had reasonable Course Content, but could be improved.",3,2024-11-19,Course Content,Neutral
+S42748,COM268,Computer Science,I found the Learning Resources in Computer Science to be very well organized and useful.,5,2024-12-23,Learning Resources,Positive
+S60176,BIO726,Biology,The instructor's Facilities approach in Biology was outstanding.,4,2024-10-27,Facilities,Positive
+S93888,PHY449,Physics,I really enjoyed the Physics course. The Learning Resources was excellent.,4,2024-11-19,Learning Resources,Positive
+S96380,PSY565,Psychology,The Learning Resources in Psychology met the basic requirements.,4,2024-05-21,Learning Resources,Neutral
+S34296,PHY222,Physics,I really enjoyed the Physics course. The Facilities was excellent.,4,2024-11-01,Facilities,Positive
+S58070,PHY976,Physics,The Teaching Quality in the Physics course was adequate.,4,2024-09-19,Teaching Quality,Neutral
+S16592,COM650,Computer Science,I found the Facilities in Computer Science to be very well organized and useful.,5,2024-08-29,Facilities,Positive
+S34842,COM852,Computer Science,"Great Teaching Quality in the Computer Science course, very helpful for my learning.",5,2024-05-11,Teaching Quality,Positive
+S49850,LIT495,Literature,I struggled with Literature due to inadequate Assessment Methods.,3,2024-06-05,Assessment Methods,Negative
+S72254,CHE217,Chemistry,"The Chemistry course had reasonable Support Services, but could be improved.",4,2024-05-24,Support Services,Neutral
+S87374,PSY196,Psychology,"I think the Assessment Methods in Psychology was average, nothing special.",4,2024-09-12,Assessment Methods,Neutral
+S68828,HIS499,History,The Learning Resources in the History class was below standard.,2,2024-12-31,Learning Resources,Negative
+S30794,BIO530,Biology,The Course Content in the Biology class exceeded my expectations.,5,2025-01-09,Course Content,Positive
+S55125,COM495,Computer Science,I really enjoyed the Computer Science course. The Support Services was excellent.,5,2024-05-20,Support Services,Positive
+S91198,PHY753,Physics,I struggled with Physics due to inadequate Learning Resources.,3,2024-04-28,Learning Resources,Negative
+S58228,PHY201,Physics,I found the Assessment Methods in Physics to be very well organized and useful.,5,2024-10-05,Assessment Methods,Positive
+S40474,PSY807,Psychology,The Support Services in the Psychology class was below standard.,3,2025-03-27,Support Services,Negative
+S66826,PSY951,Psychology,The Support Services in the Psychology class exceeded my expectations.,5,2024-10-01,Support Services,Positive
+S99375,COM883,Computer Science,The Course Content in the Computer Science course was adequate.,3,2024-11-26,Course Content,Neutral
+S23757,LIT983,Literature,I found the Support Services in Literature to be very well organized and useful.,5,2025-01-10,Support Services,Positive
+S15305,HIS487,History,The Assessment Methods in History needs significant improvement.,2,2025-01-04,Assessment Methods,Negative
+S31669,PHY941,Physics,I really enjoyed the Physics course. The Assessment Methods was excellent.,5,2024-12-01,Assessment Methods,Positive
+S46470,MAT480,Mathematics,"Great Learning Resources in the Mathematics course, very helpful for my learning.",4,2024-08-05,Learning Resources,Positive
+S38875,CHE215,Chemistry,I really enjoyed the Chemistry course. The Assessment Methods was excellent.,5,2025-01-08,Assessment Methods,Positive
+S73307,COM121,Computer Science,The Teaching Quality in the Computer Science course was adequate.,4,2024-12-06,Teaching Quality,Neutral
+S27562,PHY166,Physics,I found the Support Services in Physics to be very well organized and useful.,4,2025-03-21,Support Services,Positive
+S99565,BIO938,Biology,I found the Learning Resources in Biology to be very well organized and useful.,5,2025-01-02,Learning Resources,Positive
+S93756,CHE569,Chemistry,Poor Facilities made the Chemistry course difficult to follow.,2,2025-01-28,Facilities,Negative
+S24414,MAT104,Mathematics,The Teaching Quality in the Mathematics class exceeded my expectations.,5,2025-01-10,Teaching Quality,Positive
+S11048,PSY576,Psychology,The Teaching Quality in Psychology met the basic requirements.,3,2024-11-09,Teaching Quality,Neutral
+S54996,PHY822,Physics,I really enjoyed the Physics course. The Learning Resources was excellent.,5,2024-06-20,Learning Resources,Positive
+S42654,LIT840,Literature,The Learning Resources in Literature met the basic requirements.,3,2025-02-18,Learning Resources,Neutral
+S27687,MAT438,Mathematics,I struggled with Mathematics due to inadequate Assessment Methods.,3,2024-10-31,Assessment Methods,Negative
+S60453,LIT392,Literature,I really enjoyed the Literature course. The Teaching Quality was excellent.,5,2024-12-02,Teaching Quality,Positive
+S39259,PSY508,Psychology,The instructor's Course Content approach in Psychology was outstanding.,4,2024-05-30,Course Content,Positive
+S92797,COM429,Computer Science,The Assessment Methods in the Computer Science course was adequate.,3,2024-08-08,Assessment Methods,Neutral
+S13169,LIT741,Literature,The instructor's Course Content approach in Literature was outstanding.,5,2024-08-02,Course Content,Positive
+S77795,COM447,Computer Science,I struggled with Computer Science due to inadequate Assessment Methods.,2,2024-08-10,Assessment Methods,Negative
+S72687,ECO121,Economics,"I think the Learning Resources in Economics was average, nothing special.",4,2024-12-30,Learning Resources,Neutral
+S50837,PHY138,Physics,"Great Support Services in the Physics course, very helpful for my learning.",5,2025-02-17,Support Services,Positive
+S56635,HIS951,History,Neither good nor bad Course Content in the History course.,4,2024-06-16,Course Content,Neutral
+S43122,BIO458,Biology,The Learning Resources in Biology needs significant improvement.,3,2024-07-02,Learning Resources,Negative
+S96512,ECO542,Economics,The instructor's Assessment Methods approach in Economics was outstanding.,4,2024-08-27,Assessment Methods,Positive
+S95466,PHY483,Physics,Neither good nor bad Support Services in the Physics course.,3,2024-05-12,Support Services,Neutral
+S64308,ECO194,Economics,"I think the Support Services in Economics was average, nothing special.",4,2024-05-02,Support Services,Neutral
+S77647,PSY458,Psychology,I found the Assessment Methods in Psychology to be very well organized and useful.,5,2024-07-14,Assessment Methods,Positive
+S39902,PSY549,Psychology,The Support Services in Psychology met the basic requirements.,3,2024-08-25,Support Services,Neutral
+S42942,PSY753,Psychology,The Course Content in Psychology met the basic requirements.,3,2024-06-01,Course Content,Neutral
+S39067,PSY683,Psychology,I really enjoyed the Psychology course. The Teaching Quality was excellent.,4,2024-08-07,Teaching Quality,Positive
+S53221,CHE931,Chemistry,I was disappointed with the Learning Resources in the Chemistry course.,3,2024-07-05,Learning Resources,Negative
+S91014,CHE189,Chemistry,The Teaching Quality in the Chemistry class exceeded my expectations.,4,2024-06-07,Teaching Quality,Positive
+S46844,ECO728,Economics,I really enjoyed the Economics course. The Learning Resources was excellent.,4,2024-06-17,Learning Resources,Positive
+S27739,LIT330,Literature,The Support Services in Literature met the basic requirements.,4,2025-02-08,Support Services,Neutral
+S69952,HIS863,History,The Assessment Methods in the History class was below standard.,2,2024-08-16,Assessment Methods,Negative
+S52893,CHE462,Chemistry,Neither good nor bad Teaching Quality in the Chemistry course.,4,2024-05-06,Teaching Quality,Neutral
+S36983,COM692,Computer Science,"The Computer Science course had reasonable Teaching Quality, but could be improved.",3,2025-02-25,Teaching Quality,Neutral
+S46355,PHY691,Physics,I really enjoyed the Physics course. The Learning Resources was excellent.,5,2024-07-15,Learning Resources,Positive
+S53220,LIT898,Literature,"Great Support Services in the Literature course, very helpful for my learning.",5,2025-04-10,Support Services,Positive
+S13045,CHE313,Chemistry,I really enjoyed the Chemistry course. The Facilities was excellent.,4,2024-04-29,Facilities,Positive
+S62419,MAT771,Mathematics,Neither good nor bad Facilities in the Mathematics course.,4,2024-08-17,Facilities,Neutral
+S95802,HIS616,History,The Facilities in the History course was adequate.,3,2025-01-06,Facilities,Neutral
+S68734,LIT842,Literature,The Facilities in Literature met the basic requirements.,4,2024-08-05,Facilities,Neutral
+S90956,CHE362,Chemistry,I really enjoyed the Chemistry course. The Teaching Quality was excellent.,5,2024-10-25,Teaching Quality,Positive
+S19529,PSY943,Psychology,I found the Teaching Quality in Psychology to be very well organized and useful.,4,2024-08-28,Teaching Quality,Positive
+S60837,ECO418,Economics,The Teaching Quality in the Economics class exceeded my expectations.,4,2024-08-29,Teaching Quality,Positive
+S37284,ECO587,Economics,I really enjoyed the Economics course. The Facilities was excellent.,5,2024-08-08,Facilities,Positive
+S37294,COM576,Computer Science,"The Computer Science course had reasonable Teaching Quality, but could be improved.",4,2024-06-15,Teaching Quality,Neutral
+S71915,HIS316,History,The instructor's Assessment Methods approach in History was outstanding.,5,2025-03-29,Assessment Methods,Positive
+S19086,HIS146,History,The Learning Resources in History met the basic requirements.,3,2024-09-19,Learning Resources,Neutral
+S88248,PSY410,Psychology,The instructor's Facilities approach in Psychology was outstanding.,5,2024-04-28,Facilities,Positive
+S63618,PSY166,Psychology,The Assessment Methods in the Psychology course was adequate.,4,2024-12-23,Assessment Methods,Neutral
+S64626,PHY791,Physics,Neither good nor bad Course Content in the Physics course.,4,2024-10-03,Course Content,Neutral
+S33956,LIT660,Literature,"I think the Support Services in Literature was average, nothing special.",4,2024-05-06,Support Services,Neutral
+S10741,ECO176,Economics,The instructor's Learning Resources approach in Economics was outstanding.,5,2024-05-20,Learning Resources,Positive
+S75530,CHE874,Chemistry,The Teaching Quality in the Chemistry course was adequate.,3,2024-12-16,Teaching Quality,Neutral
+S31819,PSY869,Psychology,I was disappointed with the Facilities in the Psychology course.,2,2024-04-12,Facilities,Negative
+S64936,ECO490,Economics,"The Economics course had reasonable Course Content, but could be improved.",3,2025-04-02,Course Content,Neutral
+S89693,PHY730,Physics,I struggled with Physics due to inadequate Learning Resources.,3,2024-07-08,Learning Resources,Negative
+S18498,MAT131,Mathematics,Poor Assessment Methods made the Mathematics course difficult to follow.,1,2025-02-11,Assessment Methods,Negative
+S88113,BIO464,Biology,"The Biology course had reasonable Learning Resources, but could be improved.",3,2024-07-01,Learning Resources,Neutral
+S28829,HIS512,History,I found the Teaching Quality in History to be very well organized and useful.,4,2024-10-03,Teaching Quality,Positive
+S69245,BIO330,Biology,"Great Facilities in the Biology course, very helpful for my learning.",5,2024-10-15,Facilities,Positive
+S58113,PHY846,Physics,"I think the Course Content in Physics was average, nothing special.",4,2024-12-30,Course Content,Neutral
+S88933,ECO256,Economics,"Great Assessment Methods in the Economics course, very helpful for my learning.",5,2024-07-02,Assessment Methods,Positive
+S53390,HIS891,History,The instructor's Teaching Quality approach in History was outstanding.,5,2024-07-14,Teaching Quality,Positive
+S87527,CHE831,Chemistry,Poor Facilities made the Chemistry course difficult to follow.,2,2024-07-08,Facilities,Negative
+S13477,PSY544,Psychology,I really enjoyed the Psychology course. The Support Services was excellent.,4,2025-03-17,Support Services,Positive
+S58220,CHE416,Chemistry,"Great Teaching Quality in the Chemistry course, very helpful for my learning.",4,2024-08-21,Teaching Quality,Positive
+S68320,COM545,Computer Science,The Course Content in the Computer Science class exceeded my expectations.,4,2025-03-22,Course Content,Positive
+S33008,LIT834,Literature,The instructor's Support Services approach in Literature was outstanding.,4,2025-02-15,Support Services,Positive
+S24083,PHY821,Physics,I found the Teaching Quality in Physics to be very well organized and useful.,5,2025-02-02,Teaching Quality,Positive
+S20739,LIT198,Literature,I found the Course Content in Literature to be very well organized and useful.,5,2024-04-30,Course Content,Positive
+S86949,PHY857,Physics,The Support Services in the Physics class exceeded my expectations.,5,2025-01-01,Support Services,Positive
+S60728,COM175,Computer Science,The Support Services in the Computer Science class exceeded my expectations.,4,2024-07-16,Support Services,Positive
+S27510,PHY691,Physics,"Great Assessment Methods in the Physics course, very helpful for my learning.",4,2024-05-06,Assessment Methods,Positive
+S38130,PSY794,Psychology,The Facilities in the Psychology class exceeded my expectations.,5,2024-11-17,Facilities,Positive
+S17327,COM690,Computer Science,"Great Learning Resources in the Computer Science course, very helpful for my learning.",4,2024-09-11,Learning Resources,Positive
+S80703,CHE708,Chemistry,The Teaching Quality in Chemistry needs significant improvement.,2,2025-03-13,Teaching Quality,Negative
+S74679,LIT198,Literature,The Learning Resources in the Literature class exceeded my expectations.,5,2024-08-18,Learning Resources,Positive
+S48645,LIT623,Literature,I was disappointed with the Learning Resources in the Literature course.,1,2025-03-01,Learning Resources,Negative
+S69073,PSY382,Psychology,The Learning Resources in Psychology met the basic requirements.,3,2024-11-27,Learning Resources,Neutral
+S86431,CHE784,Chemistry,The Facilities in the Chemistry class exceeded my expectations.,4,2024-10-21,Facilities,Positive
+S47215,ECO804,Economics,The instructor's Teaching Quality approach in Economics was outstanding.,5,2024-12-05,Teaching Quality,Positive
+S71680,MAT441,Mathematics,"Great Course Content in the Mathematics course, very helpful for my learning.",4,2024-08-07,Course Content,Positive
+S38022,CHE278,Chemistry,The Assessment Methods in the Chemistry course was adequate.,3,2024-04-19,Assessment Methods,Neutral
+S61682,COM645,Computer Science,The Support Services in Computer Science needs significant improvement.,1,2024-12-16,Support Services,Negative
+S76382,HIS364,History,"The History course had reasonable Support Services, but could be improved.",4,2024-10-13,Support Services,Neutral
+S28844,HIS422,History,The Learning Resources in the History course was adequate.,3,2024-06-27,Learning Resources,Neutral
+S22104,LIT431,Literature,The Facilities in Literature met the basic requirements.,4,2025-02-14,Facilities,Neutral
+S64969,MAT672,Mathematics,"The Mathematics course had reasonable Teaching Quality, but could be improved.",4,2024-09-30,Teaching Quality,Neutral
+S45928,PHY152,Physics,"The Physics course had reasonable Facilities, but could be improved.",4,2024-11-01,Facilities,Neutral
+S83086,HIS398,History,The instructor's Course Content approach in History was outstanding.,5,2024-04-16,Course Content,Positive
+S63976,MAT511,Mathematics,"I think the Teaching Quality in Mathematics was average, nothing special.",4,2025-03-20,Teaching Quality,Neutral
+S56067,LIT214,Literature,The instructor's Assessment Methods approach in Literature was outstanding.,5,2025-01-06,Assessment Methods,Positive
+S46830,MAT538,Mathematics,"The Mathematics course had reasonable Learning Resources, but could be improved.",3,2024-08-18,Learning Resources,Neutral
+S31610,MAT433,Mathematics,I found the Support Services in Mathematics to be very well organized and useful.,5,2024-12-10,Support Services,Positive
+S51218,LIT983,Literature,"Great Support Services in the Literature course, very helpful for my learning.",4,2024-11-01,Support Services,Positive
+S88329,ECO169,Economics,The instructor's Course Content approach in Economics was outstanding.,4,2024-12-17,Course Content,Positive
+S14720,HIS208,History,Poor Assessment Methods made the History course difficult to follow.,1,2025-03-06,Assessment Methods,Negative
+S86205,MAT592,Mathematics,The Facilities in the Mathematics course was adequate.,4,2024-06-21,Facilities,Neutral
+S79036,BIO549,Biology,The instructor's Learning Resources approach in Biology was outstanding.,5,2025-01-11,Learning Resources,Positive
+S73388,PHY471,Physics,Poor Facilities made the Physics course difficult to follow.,1,2024-05-08,Facilities,Negative
+S92750,ECO604,Economics,The instructor's Teaching Quality approach in Economics was outstanding.,4,2025-02-05,Teaching Quality,Positive
+S54512,PSY717,Psychology,The instructor's Teaching Quality approach in Psychology was outstanding.,5,2025-01-15,Teaching Quality,Positive
+S14623,MAT772,Mathematics,The Assessment Methods in the Mathematics class exceeded my expectations.,4,2025-01-15,Assessment Methods,Positive
+S29379,MAT777,Mathematics,I struggled with Mathematics due to inadequate Teaching Quality.,1,2024-12-25,Teaching Quality,Negative
+S59166,ECO903,Economics,The instructor's Teaching Quality approach in Economics was outstanding.,4,2024-09-01,Teaching Quality,Positive
+S74587,BIO408,Biology,I really enjoyed the Biology course. The Facilities was excellent.,5,2024-06-24,Facilities,Positive
+S90984,MAT929,Mathematics,I was disappointed with the Assessment Methods in the Mathematics course.,2,2024-12-14,Assessment Methods,Negative
+S10995,MAT390,Mathematics,"I think the Teaching Quality in Mathematics was average, nothing special.",3,2024-08-15,Teaching Quality,Neutral
+S23775,HIS916,History,The Facilities in the History course was adequate.,4,2024-12-26,Facilities,Neutral
+S78480,LIT474,Literature,The instructor's Assessment Methods approach in Literature was outstanding.,5,2024-07-08,Assessment Methods,Positive
+S96483,COM693,Computer Science,The Course Content in the Computer Science class was below standard.,2,2024-11-20,Course Content,Negative
+S67636,COM121,Computer Science,I found the Learning Resources in Computer Science to be very well organized and useful.,5,2024-04-18,Learning Resources,Positive
+S86626,PSY444,Psychology,"I think the Assessment Methods in Psychology was average, nothing special.",4,2024-11-04,Assessment Methods,Neutral
+S30959,LIT666,Literature,"The Literature course had reasonable Facilities, but could be improved.",3,2025-02-06,Facilities,Neutral
+S87923,LIT622,Literature,"I think the Learning Resources in Literature was average, nothing special.",3,2024-06-16,Learning Resources,Neutral
+S39830,CHE974,Chemistry,I found the Support Services in Chemistry to be very well organized and useful.,4,2024-10-22,Support Services,Positive
+S84080,HIS154,History,The Course Content in the History class exceeded my expectations.,4,2024-07-25,Course Content,Positive
+S12406,COM269,Computer Science,I really enjoyed the Computer Science course. The Learning Resources was excellent.,5,2024-12-22,Learning Resources,Positive
+S92005,CHE942,Chemistry,The Support Services in the Chemistry class exceeded my expectations.,4,2024-10-14,Support Services,Positive
+S70515,MAT160,Mathematics,The Assessment Methods in the Mathematics class exceeded my expectations.,5,2024-06-19,Assessment Methods,Positive
+S74806,BIO230,Biology,The instructor's Learning Resources approach in Biology was outstanding.,5,2025-01-15,Learning Resources,Positive
+S54522,ECO528,Economics,I really enjoyed the Economics course. The Assessment Methods was excellent.,5,2025-04-12,Assessment Methods,Positive
+S30293,CHE970,Chemistry,"Great Course Content in the Chemistry course, very helpful for my learning.",5,2024-09-12,Course Content,Positive
+S30411,BIO432,Biology,"The Biology course had reasonable Teaching Quality, but could be improved.",3,2025-03-27,Teaching Quality,Neutral
+S65489,HIS409,History,"Great Course Content in the History course, very helpful for my learning.",5,2025-04-02,Course Content,Positive
+S25238,PSY937,Psychology,I was disappointed with the Support Services in the Psychology course.,2,2025-02-10,Support Services,Negative
+S20926,CHE670,Chemistry,The Learning Resources in Chemistry met the basic requirements.,4,2024-11-22,Learning Resources,Neutral
+S51160,MAT116,Mathematics,The instructor's Facilities approach in Mathematics was outstanding.,5,2024-11-10,Facilities,Positive
+S25448,ECO580,Economics,The Support Services in Economics met the basic requirements.,4,2024-08-21,Support Services,Neutral
+S45701,PHY812,Physics,I really enjoyed the Physics course. The Teaching Quality was excellent.,5,2025-02-23,Teaching Quality,Positive
+S19819,PHY827,Physics,"I think the Course Content in Physics was average, nothing special.",3,2024-11-28,Course Content,Neutral
+S24501,HIS303,History,"Great Learning Resources in the History course, very helpful for my learning.",4,2025-03-03,Learning Resources,Positive
+S42394,HIS411,History,The instructor's Learning Resources approach in History was outstanding.,5,2025-03-21,Learning Resources,Positive
+S17964,CHE549,Chemistry,"Great Course Content in the Chemistry course, very helpful for my learning.",5,2024-08-12,Course Content,Positive
+S91360,ECO370,Economics,The Course Content in the Economics class was below standard.,3,2024-08-09,Course Content,Negative
+S97965,CHE844,Chemistry,The Teaching Quality in the Chemistry course was adequate.,3,2025-03-01,Teaching Quality,Neutral
+S94223,CHE361,Chemistry,I found the Learning Resources in Chemistry to be very well organized and useful.,4,2024-07-14,Learning Resources,Positive
+S18928,COM953,Computer Science,"The Computer Science course had reasonable Support Services, but could be improved.",4,2024-10-02,Support Services,Neutral
+S58999,CHE252,Chemistry,I found the Support Services in Chemistry to be very well organized and useful.,5,2025-03-17,Support Services,Positive
+S68707,COM834,Computer Science,"Great Assessment Methods in the Computer Science course, very helpful for my learning.",4,2025-03-15,Assessment Methods,Positive
+S95349,ECO572,Economics,I found the Support Services in Economics to be very well organized and useful.,4,2024-12-09,Support Services,Positive
+S62748,BIO348,Biology,Neither good nor bad Learning Resources in the Biology course.,4,2024-08-01,Learning Resources,Neutral
+S38764,PSY280,Psychology,I really enjoyed the Psychology course. The Learning Resources was excellent.,5,2024-06-11,Learning Resources,Positive
+S24253,BIO811,Biology,I found the Support Services in Biology to be very well organized and useful.,4,2024-05-22,Support Services,Positive
+S29197,COM617,Computer Science,The instructor's Teaching Quality approach in Computer Science was outstanding.,5,2025-02-16,Teaching Quality,Positive
+S57547,COM781,Computer Science,The Assessment Methods in the Computer Science course was adequate.,3,2024-10-30,Assessment Methods,Neutral
+S80145,HIS793,History,I found the Teaching Quality in History to be very well organized and useful.,4,2024-05-07,Teaching Quality,Positive
+S19522,HIS148,History,"The History course had reasonable Teaching Quality, but could be improved.",4,2024-06-15,Teaching Quality,Neutral
+S89492,LIT984,Literature,The Facilities in the Literature course was adequate.,3,2025-01-25,Facilities,Neutral
+S77075,PHY133,Physics,The instructor's Learning Resources approach in Physics was outstanding.,4,2024-08-30,Learning Resources,Positive
+S89370,HIS450,History,The Learning Resources in the History class exceeded my expectations.,4,2024-05-24,Learning Resources,Positive
+S24886,CHE232,Chemistry,The instructor's Assessment Methods approach in Chemistry was outstanding.,4,2024-07-06,Assessment Methods,Positive
+S80247,ECO706,Economics,The Teaching Quality in Economics met the basic requirements.,3,2024-07-13,Teaching Quality,Neutral
+S79320,BIO331,Biology,Poor Assessment Methods made the Biology course difficult to follow.,2,2024-05-25,Assessment Methods,Negative
+S28832,PSY514,Psychology,I really enjoyed the Psychology course. The Support Services was excellent.,4,2024-07-20,Support Services,Positive
+S29037,COM803,Computer Science,The instructor's Course Content approach in Computer Science was outstanding.,4,2025-01-05,Course Content,Positive
+S90256,HIS184,History,I found the Facilities in History to be very well organized and useful.,5,2024-09-08,Facilities,Positive
+S75620,MAT908,Mathematics,The instructor's Assessment Methods approach in Mathematics was outstanding.,4,2024-12-26,Assessment Methods,Positive
+S13146,COM758,Computer Science,The instructor's Teaching Quality approach in Computer Science was outstanding.,4,2024-04-17,Teaching Quality,Positive
+S95559,HIS187,History,"Great Teaching Quality in the History course, very helpful for my learning.",4,2024-08-29,Teaching Quality,Positive
+S40602,ECO566,Economics,I found the Course Content in Economics to be very well organized and useful.,4,2024-12-05,Course Content,Positive
+S43910,CHE601,Chemistry,The Assessment Methods in Chemistry met the basic requirements.,4,2024-04-18,Assessment Methods,Neutral
+S77569,LIT575,Literature,I found the Learning Resources in Literature to be very well organized and useful.,5,2024-11-08,Learning Resources,Positive
+S53515,PHY511,Physics,"The Physics course had reasonable Facilities, but could be improved.",3,2025-02-18,Facilities,Neutral
+S48535,PSY954,Psychology,The instructor's Assessment Methods approach in Psychology was outstanding.,4,2024-05-02,Assessment Methods,Positive
+S75377,BIO442,Biology,"The Biology course had reasonable Course Content, but could be improved.",4,2024-09-30,Course Content,Neutral
+S11457,CHE142,Chemistry,The Facilities in the Chemistry class exceeded my expectations.,4,2024-10-20,Facilities,Positive
+S82430,HIS573,History,"Great Assessment Methods in the History course, very helpful for my learning.",4,2024-10-21,Assessment Methods,Positive
+S76777,MAT656,Mathematics,"Great Support Services in the Mathematics course, very helpful for my learning.",5,2024-05-10,Support Services,Positive
+S66162,COM261,Computer Science,I was disappointed with the Support Services in the Computer Science course.,3,2025-03-28,Support Services,Negative
+S69246,BIO464,Biology,The Facilities in Biology met the basic requirements.,4,2024-11-16,Facilities,Neutral
+S36851,MAT689,Mathematics,I was disappointed with the Course Content in the Mathematics course.,2,2024-05-18,Course Content,Negative
+S69386,LIT202,Literature,"I think the Learning Resources in Literature was average, nothing special.",3,2025-03-05,Learning Resources,Neutral
+S54197,PHY929,Physics,I really enjoyed the Physics course. The Assessment Methods was excellent.,4,2025-03-10,Assessment Methods,Positive
+S54368,BIO445,Biology,I found the Course Content in Biology to be very well organized and useful.,5,2024-05-26,Course Content,Positive
+S63844,HIS646,History,The Assessment Methods in the History course was adequate.,3,2024-05-01,Assessment Methods,Neutral
+S88284,CHE575,Chemistry,I really enjoyed the Chemistry course. The Facilities was excellent.,4,2024-08-23,Facilities,Positive
+S22462,COM630,Computer Science,I struggled with Computer Science due to inadequate Teaching Quality.,1,2024-07-17,Teaching Quality,Negative
+S26537,PSY900,Psychology,I really enjoyed the Psychology course. The Learning Resources was excellent.,5,2025-03-18,Learning Resources,Positive
+S88084,PHY415,Physics,I struggled with Physics due to inadequate Learning Resources.,3,2025-04-01,Learning Resources,Negative
+S66524,CHE770,Chemistry,I really enjoyed the Chemistry course. The Facilities was excellent.,5,2024-06-13,Facilities,Positive
+S10406,PSY322,Psychology,I really enjoyed the Psychology course. The Learning Resources was excellent.,4,2025-02-16,Learning Resources,Positive
+S70572,BIO212,Biology,I found the Teaching Quality in Biology to be very well organized and useful.,5,2025-02-27,Teaching Quality,Positive
+S95831,COM420,Computer Science,"The Computer Science course had reasonable Support Services, but could be improved.",3,2025-03-09,Support Services,Neutral
+S30326,MAT564,Mathematics,I struggled with Mathematics due to inadequate Course Content.,2,2025-01-01,Course Content,Negative
+S72314,ECO173,Economics,The Support Services in the Economics class exceeded my expectations.,5,2024-05-25,Support Services,Positive
+S93857,MAT935,Mathematics,"Great Course Content in the Mathematics course, very helpful for my learning.",4,2024-06-19,Course Content,Positive
+S75039,CHE390,Chemistry,I really enjoyed the Chemistry course. The Learning Resources was excellent.,5,2024-12-13,Learning Resources,Positive
+S87321,BIO841,Biology,The Facilities in the Biology class exceeded my expectations.,4,2024-10-08,Facilities,Positive
+S44718,MAT202,Mathematics,The Facilities in the Mathematics class exceeded my expectations.,4,2024-05-26,Facilities,Positive
+S85390,CHE533,Chemistry,I really enjoyed the Chemistry course. The Facilities was excellent.,4,2025-02-09,Facilities,Positive
+S68830,LIT961,Literature,"Great Course Content in the Literature course, very helpful for my learning.",5,2024-05-31,Course Content,Positive
+S46489,COM116,Computer Science,The Teaching Quality in the Computer Science class exceeded my expectations.,4,2025-03-31,Teaching Quality,Positive
+S54242,HIS133,History,The instructor's Teaching Quality approach in History was outstanding.,5,2025-03-08,Teaching Quality,Positive
+S91481,HIS492,History,The Course Content in the History course was adequate.,4,2025-04-03,Course Content,Neutral
+S66902,HIS783,History,"The History course had reasonable Support Services, but could be improved.",4,2024-06-28,Support Services,Neutral
+S74914,CHE867,Chemistry,I found the Course Content in Chemistry to be very well organized and useful.,4,2025-03-16,Course Content,Positive
+S30955,LIT987,Literature,"Great Facilities in the Literature course, very helpful for my learning.",4,2024-10-02,Facilities,Positive
+S52463,HIS606,History,The instructor's Course Content approach in History was outstanding.,5,2025-03-14,Course Content,Positive
+S39264,COM437,Computer Science,"Great Support Services in the Computer Science course, very helpful for my learning.",4,2024-07-29,Support Services,Positive
+S46176,BIO848,Biology,The Assessment Methods in Biology met the basic requirements.,4,2025-03-06,Assessment Methods,Neutral
+S81393,LIT111,Literature,The Learning Resources in the Literature course was adequate.,3,2024-08-22,Learning Resources,Neutral
+S89411,LIT656,Literature,The Teaching Quality in the Literature class exceeded my expectations.,4,2024-09-20,Teaching Quality,Positive
+S16849,ECO754,Economics,I really enjoyed the Economics course. The Course Content was excellent.,4,2024-07-24,Course Content,Positive
+S93013,MAT744,Mathematics,Neither good nor bad Course Content in the Mathematics course.,4,2025-01-23,Course Content,Neutral
+S94385,LIT494,Literature,Poor Learning Resources made the Literature course difficult to follow.,3,2024-04-21,Learning Resources,Negative
+S59417,CHE133,Chemistry,The Support Services in the Chemistry class exceeded my expectations.,4,2024-08-26,Support Services,Positive
+S45645,ECO797,Economics,I found the Course Content in Economics to be very well organized and useful.,4,2024-09-12,Course Content,Positive
+S41240,HIS908,History,"I think the Support Services in History was average, nothing special.",3,2024-12-28,Support Services,Neutral
+S60373,HIS732,History,The instructor's Course Content approach in History was outstanding.,4,2024-11-11,Course Content,Positive
+S51578,COM154,Computer Science,The Teaching Quality in the Computer Science class exceeded my expectations.,5,2025-03-10,Teaching Quality,Positive
+S21411,COM215,Computer Science,I really enjoyed the Computer Science course. The Assessment Methods was excellent.,5,2024-10-30,Assessment Methods,Positive
+S35260,BIO600,Biology,"Great Assessment Methods in the Biology course, very helpful for my learning.",5,2024-11-07,Assessment Methods,Positive
+S24959,CHE360,Chemistry,I was disappointed with the Learning Resources in the Chemistry course.,2,2024-09-04,Learning Resources,Negative
+S52281,PHY572,Physics,The Support Services in the Physics class was below standard.,2,2024-06-02,Support Services,Negative
+S63070,CHE984,Chemistry,"Great Facilities in the Chemistry course, very helpful for my learning.",4,2024-12-27,Facilities,Positive
+S38730,BIO907,Biology,The Support Services in the Biology class exceeded my expectations.,5,2024-04-26,Support Services,Positive
+S35181,COM569,Computer Science,The Assessment Methods in the Computer Science class exceeded my expectations.,4,2024-11-21,Assessment Methods,Positive
+S40026,COM942,Computer Science,I found the Assessment Methods in Computer Science to be very well organized and useful.,5,2024-08-01,Assessment Methods,Positive
+S14028,MAT812,Mathematics,I really enjoyed the Mathematics course. The Assessment Methods was excellent.,5,2025-03-06,Assessment Methods,Positive
+S59950,LIT907,Literature,I struggled with Literature due to inadequate Facilities.,1,2025-02-25,Facilities,Negative
+S13924,BIO548,Biology,"Great Facilities in the Biology course, very helpful for my learning.",5,2024-11-12,Facilities,Positive
+S85369,MAT460,Mathematics,The Facilities in Mathematics met the basic requirements.,4,2024-09-16,Facilities,Neutral
+S48575,CHE940,Chemistry,The Assessment Methods in Chemistry needs significant improvement.,2,2024-11-26,Assessment Methods,Negative
+S26618,PSY997,Psychology,The Assessment Methods in the Psychology course was adequate.,3,2024-06-13,Assessment Methods,Neutral
+S16265,LIT716,Literature,The Course Content in the Literature course was adequate.,4,2024-05-10,Course Content,Neutral
+S44214,PHY873,Physics,"Great Assessment Methods in the Physics course, very helpful for my learning.",4,2024-07-04,Assessment Methods,Positive
+S29244,COM402,Computer Science,The Course Content in the Computer Science class exceeded my expectations.,5,2024-12-19,Course Content,Positive
+S61490,BIO450,Biology,The Learning Resources in the Biology class exceeded my expectations.,4,2024-12-29,Learning Resources,Positive
+S39070,BIO336,Biology,I found the Learning Resources in Biology to be very well organized and useful.,4,2025-04-09,Learning Resources,Positive
+S42401,BIO311,Biology,"Great Support Services in the Biology course, very helpful for my learning.",5,2025-03-03,Support Services,Positive
+S64007,PSY887,Psychology,I was disappointed with the Course Content in the Psychology course.,2,2024-12-18,Course Content,Negative
+S47228,MAT206,Mathematics,The instructor's Teaching Quality approach in Mathematics was outstanding.,5,2025-03-19,Teaching Quality,Positive
+S23135,HIS416,History,The Learning Resources in History met the basic requirements.,4,2024-11-25,Learning Resources,Neutral
+S74810,LIT745,Literature,I found the Course Content in Literature to be very well organized and useful.,5,2024-08-16,Course Content,Positive
+S37375,MAT701,Mathematics,The Facilities in Mathematics needs significant improvement.,3,2024-07-27,Facilities,Negative
+S80501,MAT740,Mathematics,The Learning Resources in the Mathematics course was adequate.,4,2024-09-24,Learning Resources,Neutral
+S33209,BIO743,Biology,The instructor's Support Services approach in Biology was outstanding.,4,2024-10-01,Support Services,Positive
+S37429,MAT621,Mathematics,I really enjoyed the Mathematics course. The Facilities was excellent.,5,2024-05-01,Facilities,Positive
+S28728,HIS222,History,"I think the Learning Resources in History was average, nothing special.",3,2024-12-11,Learning Resources,Neutral
+S93923,HIS455,History,"Great Learning Resources in the History course, very helpful for my learning.",5,2024-05-24,Learning Resources,Positive
+S70976,HIS277,History,I found the Course Content in History to be very well organized and useful.,4,2025-01-16,Course Content,Positive
+S48906,BIO309,Biology,I was disappointed with the Facilities in the Biology course.,1,2025-04-02,Facilities,Negative
+S19854,BIO940,Biology,"I think the Learning Resources in Biology was average, nothing special.",4,2024-11-12,Learning Resources,Neutral
+S98471,ECO136,Economics,Neither good nor bad Course Content in the Economics course.,3,2024-08-30,Course Content,Neutral
+S14370,ECO945,Economics,The Assessment Methods in the Economics course was adequate.,3,2024-07-07,Assessment Methods,Neutral
+S67274,PHY221,Physics,"I think the Course Content in Physics was average, nothing special.",4,2024-08-17,Course Content,Neutral
+S69543,PSY673,Psychology,The Learning Resources in the Psychology class exceeded my expectations.,4,2024-06-18,Learning Resources,Positive
+S58145,ECO556,Economics,I found the Support Services in Economics to be very well organized and useful.,4,2025-01-20,Support Services,Positive
+S57878,LIT385,Literature,The Assessment Methods in Literature needs significant improvement.,3,2024-10-09,Assessment Methods,Negative
+S72707,MAT239,Mathematics,Neither good nor bad Teaching Quality in the Mathematics course.,3,2025-02-13,Teaching Quality,Neutral
+S48127,HIS765,History,The Learning Resources in the History class exceeded my expectations.,5,2024-06-15,Learning Resources,Positive
+S17461,MAT918,Mathematics,The Support Services in the Mathematics class exceeded my expectations.,4,2025-03-11,Support Services,Positive
+S31700,MAT995,Mathematics,"I think the Course Content in Mathematics was average, nothing special.",4,2025-03-17,Course Content,Neutral
+S94676,BIO855,Biology,Poor Learning Resources made the Biology course difficult to follow.,1,2024-04-30,Learning Resources,Negative
+S41380,HIS522,History,The Facilities in the History course was adequate.,4,2024-07-05,Facilities,Neutral
+S49144,HIS653,History,"I think the Course Content in History was average, nothing special.",4,2024-05-13,Course Content,Neutral
+S70311,MAT672,Mathematics,The Course Content in the Mathematics course was adequate.,4,2024-06-17,Course Content,Neutral
+S15768,BIO292,Biology,Neither good nor bad Facilities in the Biology course.,3,2024-07-05,Facilities,Neutral
+S40796,LIT286,Literature,The Teaching Quality in the Literature class was below standard.,3,2025-03-28,Teaching Quality,Negative
+S19325,ECO734,Economics,"The Economics course had reasonable Learning Resources, but could be improved.",4,2025-01-10,Learning Resources,Neutral
+S52162,PHY324,Physics,The instructor's Facilities approach in Physics was outstanding.,5,2024-11-11,Facilities,Positive
+S60535,PHY125,Physics,The Course Content in the Physics class exceeded my expectations.,4,2024-10-27,Course Content,Positive
+S38746,HIS721,History,I found the Course Content in History to be very well organized and useful.,5,2025-03-27,Course Content,Positive
+S75755,HIS510,History,The Learning Resources in the History course was adequate.,4,2024-07-13,Learning Resources,Neutral
+S91640,PSY350,Psychology,The instructor's Assessment Methods approach in Psychology was outstanding.,5,2025-03-29,Assessment Methods,Positive
+S15564,ECO622,Economics,The Course Content in the Economics course was adequate.,3,2025-02-08,Course Content,Neutral
+S48324,COM137,Computer Science,I found the Support Services in Computer Science to be very well organized and useful.,5,2025-03-01,Support Services,Positive
+S63403,CHE220,Chemistry,The Assessment Methods in the Chemistry class exceeded my expectations.,5,2024-10-23,Assessment Methods,Positive
+S59728,LIT166,Literature,The instructor's Assessment Methods approach in Literature was outstanding.,5,2025-04-02,Assessment Methods,Positive
+S73946,HIS140,History,The Teaching Quality in the History class exceeded my expectations.,5,2024-05-08,Teaching Quality,Positive

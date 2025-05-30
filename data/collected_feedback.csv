@@ -1,0 +1,10 @@
+feedback_id,student_id,course_id,subject,feedback_text,rating,date,category,sentiment
+F000001,123,1,Biology,good,3,2025-04-12,Learning Resources,
+F000002,MC23001,PY01,Psychology,Very Good,5,2025-04-12,Learning Resources,
+F000003,001,oi02,History,good,5,2025-04-12,Learning Resources,
+F000004,01,B01,Biology,Good,4,2025-04-15,Learning Resources,
+F000005,02,3445,Mathematics,neutral,2,2025-04-15,Teaching Quality,
+F000006,101,MC231,History,Teaching quality good as well as resources all are good  to learn.,4,2025-05-28,Support Services,
+F000007,anonymous,unknown,Literature,The support system in the literature subject is very helpful and understandable.,3,2025-05-30,Support Services,
+F000008,MC230033CA,CS01,Chemistry,Good,4,2025-05-30,Teaching Quality,
+F000009,001,CS01,Mathematics,Good,2,2025-05-30,Facilities,
